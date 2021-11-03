@@ -49,7 +49,6 @@ const SliderHome = (props : any) => {
         >
             { 
                 data.map((x : any, i : number) => {
-                    console.log(x)
                     return (
                         <SwiperSlide key={`slide-${i}`}>
                             <SlideHome data={x}/>
