@@ -38,3 +38,22 @@ a {
 ::-webkit-scrollbar-thumb:hover {
   background: rgb(48, 58, 126); 
 }
+
+
+.swiper {
+  padding: 20px 55px !important;
+}
+
+.swiper-slide {
+  width: auto !important;
+}
+
+.swiper-pagination {
+  transform: translateY(10px);
+}
+
+@media screen and (max-width: 400px) {
+  .swiper {
+    padding: 20px 0 !important;
+  }
+}
