@@ -1,0 +1,3788 @@
+[
+  [
+    {         
+      "id": 1,                            
+      "rédacteur": "Ponch - Edofo",
+      "cat": "Musique",
+      "thème": "Acid jazz",         
+      "difficulté": "4 / 5",
+      "img": "https://m.media-amazon.com/images/I/51Xq5mQhUWL.jpg",
+      "quizz": {
+        "fr": {
+          "débutant": [
+          {
+            "id": 1,
+            "question": "L'acid jazz est un croisement entre le jazz, le hip-hop, la soul et quel autre style musical ?",
+            "propositions": [
+              "Funk",
+              "Salsa",
+              "Bossa Nova",
+              "Java"
+            ],
+            "réponse": "Funk",
+            "anecdote": "L'acid jazz fut lancé dans la scène club de Londres au milieu des années 1980."
+          },
+          {
+            "id": 2,
+            "question": "Les chansons les plus significatives du genre acid jazz proviennent de quel label ?",
+            "propositions": [
+              "Impulse",
+              "ABC Records",
+              "Igloo Records",
+              "Blue Note"
+            ],
+            "réponse": "Blue Note",
+            "anecdote": "Le nom du label provient de la note bleue caractéristique du jazz et du blues."
+          },
+          {
+            "id": 3,
+            "question": "En 1991, grâce au succès de quel groupe le genre acid jazz s'est-il popularisé ?",
+            "propositions": [
+              "Incognito",
+              "Urban Species",
+              "Brand New Heavies",
+              "Young Disciples"
+            ],
+            "réponse": "Brand New Heavies",
+            "anecdote": "Le groupe a choisi son nom en s'inspirant de la pochette d'un single de James Brown."
+          },
+          {
+            "id": 4,
+            "question": "Quel groupe de musique anglais est mené par le chanteur Jay Kay ?",
+            "propositions": [
+              "Brown Starr",
+              "Jamiroquai",
+              "Chuff Nutts",
+              "Blacknuss"
+            ],
+            "réponse": "Jamiroquai",
+            "anecdote": "Aujourd'hui, le groupe a acquis une renommée mondiale, tout en ayant su faire évoluer sa musique."
+          },
+          {
+            "id": 5,
+            "question": "Quel est le surnom de Jean-Paul Maunick, fondateur du talentueux groupe Incognito ?",
+            "propositions": [
+              "Yellow",
+              "Greeny",
+              "Redest",
+              "Bluey"
+            ],
+            "réponse": "Bluey",
+            "anecdote": "Leur premier album, « Jazz Funk », sera le seul enregistré dans les années 1980."
+          },
+          {
+            "id": 6,
+            "question": "Quel quartet acid jazz a acquis sa renommée grâce à ses performances live ?",
+            "propositions": [
+              "MJQ",
+              "FJQ",
+              "DSQ",
+              "JTQ"
+            ],
+            "réponse": "JTQ",
+            "anecdote": "James Taylor Quartet a contribué à la bande originale du film « Austin Powers »."
+          },
+          {
+            "id": 7,
+            "question": "À quel groupe doit-on « In The Hand of The Inevitable », meilleure vente du label Acid Jazz ?",
+            "propositions": [
+              "James Taylor Quartet",
+              "Brown Starr",
+              "Vibraphonic",
+              "The Solsonics"
+            ],
+            "réponse": "James Taylor Quartet",
+            "anecdote": "En 1998 James Taylor, membre du James Taylor Quartet, crée son propre label, JTI Records."
+          },
+          {
+            "id": 8,
+            "question": "Quel rappeur new-yorkais aujourd'hui décédé a produit la série « Jazzmatazz » ?",
+            "propositions": [
+              "Big Ali",
+              "Guru",
+              "Chinx",
+              "Mystikal"
+            ],
+            "réponse": "Guru",
+            "anecdote": "Guru était le MC du groupe Gang Starr qu'il a fondé avec DJ Premier en 1989."
+          },
+          {
+            "id": 9,
+            "question": "En quelle année le terme acid jazz est-il apparu, désignant label et compilations ?",
+            "propositions": [
+              "2001",
+              "1988",
+              "1992",
+              "1976"
+            ],
+            "réponse": "1988",
+            "anecdote": "Le nom du genre fut apparemment utilisé pour la première fois par le DJ Gilles Peterson."
+          },
+          {
+            "id": 10,
+            "question": "Quel producteur et DJ londonien aurait inventé le terme « acid jazz » à la fin des années 1980 ?",
+            "propositions": [
+              "Gareth Emery",
+              "Gilles Peterson",
+              "Funki Porcini",
+              "Ben Sims"
+            ],
+            "réponse": "Gilles Peterson",
+            "anecdote": "Il a édité les Brand New Heavies, Jamiroquai, Corduroy, James Taylor Quartet et Snowboy."
+          }
+        ],
+        "confirmé": [
+          {
+            "id": 11,
+            "question": "En 1990, quel label Gilles Peterson a-t-il fondé chez Phonogram Records ?",
+            "propositions": [
+              "Real World",
+              "Talkin' Loud",
+              "Visible Noise",
+              "Blast First"
+            ],
+            "réponse": "Talkin' Loud",
+            "anecdote": "L'autre grand label londonien de musique électronique à cette époque est Ninja Tune."
+          },
+          {
+            "id": 12,
+            "question": "Quel sigle retrouve-t-on sur tous les albums du groupe Brand New Heavies ?",
+            "propositions": [
+              "Un éléphant",
+              "Une tortue",
+              "Un lion",
+              "Une girafe"
+            ],
+            "réponse": "Un éléphant",
+            "anecdote": "Les membres principaux du groupe sont Jan Kincaid, Simon Bartholomew et Andrew Levy."
+          },
+          {
+            "id": 13,
+            "question": "Avec quel album Galliano a-t-il rencontré son plus grand succès en 1994 ?",
+            "propositions": [
+              "A Joyful Noise",
+              "The Plot Thickens",
+              "Four",
+              "Skunk Funk"
+            ],
+            "réponse": "The Plot Thickens",
+            "anecdote": "Formé en 1988, ce groupe acid jazz totalise quatre albums à son répertoire musical."
+          },
+          {
+            "id": 14,
+            "question": "Quel groupe acid jazz autrichien est mené par le guitariste Peter Legat ?",
+            "propositions": [
+              "Greyboy Allstars",
+              "Count Basic",
+              "Groove collective",
+              "Liquid Soul"
+            ],
+            "réponse": "Count Basic",
+            "anecdote": "Le groupe se réparti dans les styles RetB, trip-hop, acid jazz et smooth jazz."
+          },
+          {
+            "id": 15,
+            "question": "Comment est plus connu Norman Cook, fondateur du groupe Freak Power ?",
+            "propositions": [
+              "Four Tet",
+              "Fatboy Slim",
+              "Bio-tek",
+              "Congo Natty"
+            ],
+            "réponse": "Fatboy Slim",
+            "anecdote": "Sa chanson « Right Here, Right Now » a été utilisée à de nombreuses reprises dans des films et séries."
+          },
+          {
+            "id": 16,
+            "question": "Quel groupe a sorti le single « Apparently Nothin » chez Talkin' Loud en 1991 ?",
+            "propositions": [
+              "Count Basic",
+              "Young Disciples",
+              "Jamiroquai",
+              "D'Influence"
+            ],
+            "réponse": "Young Disciples",
+            "anecdote": "Carleen Anderson a quitté le groupe en 1992 pour signer en solo chez Virgin Records."
+          },
+          {
+            "id": 17,
+            "question": "Quelle fut la première compilation publiée par le label « Acid Jazz Records » ?",
+            "propositions": [
+              "Talkin' Verve",
+              "This is Acid Jazz",
+              "Diggin' Deeper",
+              "Totally Wired"
+            ],
+            "réponse": "Totally Wired",
+            "anecdote": "Cette compilation est en fait le tout premier CD sorti proposant des raretés en acid jazz."
+          },
+          {
+            "id": 18,
+            "question": "Quel groupe acid jazz londonien s'est d'abord inspiré de la musique de James Brown ?",
+            "propositions": [
+              "Brand New Heavies",
+              "Us3",
+              "Jamiroquai",
+              "Corduroy"
+            ],
+            "réponse": "Brand New Heavies",
+            "anecdote": "Leur musique est perçue comme un bol d'oxygène et le label Delicious Vinyl ne s'y trompera pas."
+          },
+          {
+            "id": 19,
+            "question": "Quel musicien français est plus connu sous le nom de scène de St Germain ?",
+            "propositions": [
+              "Martin Solveig",
+              "Alex Gopher",
+              "Benjamin Diamond",
+              "Ludovic Navarre"
+            ],
+            "réponse": "Ludovic Navarre",
+            "anecdote": "Ce pseudonyme, inspiré par sa ville natale, fait aussi référence au quartier de Paris."
+          },
+          {
+            "id": 20,
+            "question": "Quel groupe fut créé suite à une audition ratée du chanteur auprès de Brand New Heavies ?",
+            "propositions": [
+              "Urban Species",
+              "Jamiroquai",
+              "I Mother Earth",
+              "Young Disciples"
+            ],
+            "réponse": "Jamiroquai",
+            "anecdote": "Le nom est la réunion de « Jam » (improvisation collective) et de « Iroquois » (tribu d'indiens)."
+          }
+        ],
+        "expert": [
+          {
+            "id": 21,
+            "question": "Quel trompettiste de jazz français est l'un des plus influents depuis les années 1990 ?",
+            "propositions": [
+              "Nicolas Folmer",
+              "Pierre Thibaud",
+              "Erik Truffaz",
+              "Pierre Dutot"
+            ],
+            "réponse": "Erik Truffaz",
+            "anecdote": "Le trompettiste de jazz français Erik Truffaz est souvent comparé à Miles Davis pour la pureté de son jeu."
+          },
+          {
+            "id": 22,
+            "question": "Quel groupe acid jazz basé à Londres est formé autour des jumeaux Addison ?",
+            "propositions": [
+              "Incognito",
+              "Us3",
+              "Jamiroquai",
+              "Corduroy"
+            ],
+            "réponse": "Corduroy",
+            "anecdote": "Formé en décembre 1991, le groupe a signé sur le label Acid Jazz Records en janvier 1992."
+          },
+          {
+            "id": 23,
+            "question": "Quel guitariste de jazz anglais a été très influent dans le développement de l'acid jazz ?",
+            "propositions": [
+              "Chris Poland",
+              "Bill Connors",
+              "Jack Marshall",
+              "Ronny Jordan"
+            ],
+            "réponse": "Ronny Jordan",
+            "anecdote": "Né de parents protestants jamaïcains, Ronny Jordan apprend la guitare en autodidacte dès l'âge de 4 ans."
+          },
+          {
+            "id": 24,
+            "question": "Quel groupe acid jazz élabore sa musique à partir de samples des classiques Blue Note ?",
+            "propositions": [
+              "Brand New Heavies",
+              "James Taylor Quartet",
+              "Young Disciples",
+              "Us3"
+            ],
+            "réponse": "Us3",
+            "anecdote": "Après signature, suite à un accord avec Blue Note, le groupe a obtenu un accès illimité aux archives du label."
+          },
+          {
+            "id": 25,
+            "question": "Quel pilier du mouvement acid jazz était d'abord nommé « Light of the World » ?",
+            "propositions": [
+              "Grooveria",
+              "Jazzkantine",
+              "Incognito",
+              "Urban Species"
+            ],
+            "réponse": "Incognito",
+            "anecdote": "L'album « Positivity », paru en 1993, reste à ce jour le plus gros succès du groupe."
+          },
+          {
+            "id": 26,
+            "question": "Quel groupe acid jazz a produit des hits pour Mark Morrison, Shola Ama et Ultra Naté ?",
+            "propositions": [
+              "D'Influence",
+              "Brown Starr",
+              "Jamiroquai",
+              "I Mother Earth"
+            ],
+            "réponse": "D'Influence",
+            "anecdote": "Ayant démarré chez The Echo Label, D'Influence a fondé son propre label, Freakstreet Records."
+          },
+          {
+            "id": 27,
+            "question": "Sous quel nom Rob Gallagher, créateur du groupe Galliano, continue-t-il en solo ?",
+            "propositions": [
+              "Erik Truffaz",
+              "Earl Zinger",
+              "Guru",
+              "Ronny Jordan"
+            ],
+            "réponse": "Earl Zinger",
+            "anecdote": "Né en 1988 à Londres, le groupe Galliano était l'un des premiers représentants de l'acid jazz."
+          },
+          {
+            "id": 28,
+            "question": "Quel groupe de rock alternatif canadien a atteint son sommet fin des années 1990 ?",
+            "propositions": [
+              "The Solsonics",
+              "I Mother Earth",
+              "Corduroy",
+              "Vibraphonic"
+            ],
+            "réponse": "I Mother Earth",
+            "anecdote": "Le 24 janvier 2012, le groupe est revenu dans la musique après huit ans d'inactivité."
+          },
+          {
+            "id": 29,
+            "question": "Quel groupe combine musique en live avec des échantillonnages et de la programmation ?",
+            "propositions": [
+              "Jazzkantine",
+              "Urban Species",
+              "Grooveria",
+              "Five Point Plan"
+            ],
+            "réponse": "Urban Species",
+            "anecdote": "Leur succès le plus notable est la chanson « Spiritual Love » (1993) issue de l'album « Listen » (1994)."
+          },
+          {
+            "id": 30,
+            "question": "Avant l'acid jazz, comment appelait-on les compilations de jazz-funk des années 1980 ?",
+            "propositions": [
+              "Dixieland",
+              "Britpop",
+              "Rare groove",
+              "Chicago blues"
+            ],
+            "réponse": "Rare groove",
+            "anecdote": "Les premiers morceaux furent popularisés sur Kiss-FM, une radio locale londonienne."
+          }
+        ]
+        }
+      }
+    }
+  ],
+  [
+    {    
+      "id": 1,                                 
+      "rédacteur": "Ponch - Edofo",
+      "cat": "Animaux",
+      "thème": "Abeilles du rucher",         
+      "difficulté": "3 / 5",
+      "img": "data:image/jpeg;base64,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",
+      "quizz": {
+        "fr": {
+          "débutant": [
+          {
+            "id": 1,
+            "question": "Comment appelle-t-on une personne qui élève des abeilles à miel ?",
+            "propositions": [
+              "Ostréiculteur",
+              "Aviculteur",
+              "Apiculteur",
+              "Raniculteur"
+            ],
+            "réponse": "Apiculteur",
+            "anecdote": "Pratiquée sur tous les continents, cette activité diffère selon les variétés d'abeilles, le climat et le développement économique."
+          },
+          {
+            "id": 2,
+            "question": "De quel suc sécrété se nourrissent la plupart des abeilles de nos régions ?",
+            "propositions": [
+              "Bourgeon",
+              "Cerne",
+              "Loge",
+              "Nectar"
+            ],
+            "réponse": "Nectar",
+            "anecdote": "Cette substance possède, par son goût ou son odeur, un pouvoir d'attraction sur les insectes ainsi que sur certains oiseaux."
+          },
+          {
+            "id": 3,
+            "question": "Avec quel autre insecte plus agressif confond-on souvent l'abeille ?",
+            "propositions": [
+              "Guêpe",
+              "Taon",
+              "Bourdon",
+              "Frelon"
+            ],
+            "réponse": "Guêpe",
+            "anecdote": "La guêpe est un insecte ayant généralement un abdomen jaune rayé de noir et dont la femelle porte un dard venimeux."
+          },
+          {
+            "id": 4,
+            "question": "Que font les abeilles volant de fleur en fleur à la recherche de nourriture ?",
+            "propositions": [
+              "Elles ruminent",
+              "Elles patinent",
+              "Elles butinent",
+              "Elles dessinent"
+            ],
+            "réponse": "Elles butinent",
+            "anecdote": "L'abeille récolte ainsi dans la nature nectar, propolis, miellat et pollen. En butinant, l'abeille assure également la pollinisation."
+          },
+          {
+            "id": 5,
+            "question": "Quel phénomène important l'abeille permet-elle d'assurer en butinant ?",
+            "propositions": [
+              "Pollinisation",
+              "Germination",
+              "Introgression",
+              "Sporulation"
+            ],
+            "réponse": "Pollinisation",
+            "anecdote": "Les plantes contribuent quant à elle à l'alimentation des pollinisateurs en leur fournissant le pollen en excès ou nectar."
+          },
+          {
+            "id": 6,
+            "question": "Laquelle de ces propositions n'est pas un produit dérivé de l'abeille ?",
+            "propositions": [
+              "Beurre",
+              "Gelée",
+              "Cire",
+              "Miel"
+            ],
+            "réponse": "Beurre",
+            "anecdote": "Ces produits sont stockés dans des galeries pour les espèces solitaires, des assemblages complexes pour les espèces sociales."
+          },
+          {
+            "id": 7,
+            "question": "Quel est le seul individu femelle fertile au sein d'une colonie d'abeilles ?",
+            "propositions": [
+              "Guêpe",
+              "Frelon",
+              "Ouvrière",
+              "Reine"
+            ],
+            "réponse": "Reine",
+            "anecdote": "La reine, à l'abdomen plus allongé, est habituellement la mère de la plupart des abeilles de la ruche, sinon de la totalité."
+          },
+          {
+            "id": 8,
+            "question": "Quel mâle de l'abeille est le produit de l'éclosion d'un oeuf non fécondé ?",
+            "propositions": [
+              "Coléoptère",
+              "Tique",
+              "Phasme",
+              "Faux bourdon"
+            ],
+            "réponse": "Faux bourdon",
+            "anecdote": "Contrairement à l'abeille ouvrière femelle, le faux bourdon ne possède pas de dard et ne récolte ni nectar ni pollen."
+          },
+          {
+            "id": 9,
+            "question": "Quelle petite abeille a fait la joie des enfants à la télévision dans les années 1980 ?",
+            "propositions": [
+              "Tao Tao",
+              "Heidi",
+              "Zigby",
+              "Maya"
+            ],
+            "réponse": "Maya",
+            "anecdote": "Maya découvre le monde en compagnie de ses amis Willy l'abeille, Flip la sauterelle, Max le ver de terre et Alexandre la souris."
+          },
+          {
+            "id": 10,
+            "question": "Environ combien d'espèces d'abeilles sont répertoriées à ce jour sur la planète ?",
+            "propositions": [
+              "10 000",
+              "15 000",
+              "5 000",
+              "20 000"
+            ],
+            "réponse": "20 000",
+            "anecdote": "Les abeilles peuvent être classées selon leur mode de vie : abeilles domestiques, sauvages, solitaires ou bien sociales."
+          }
+        ],
+        "confirmé": [
+          {
+            "id": 11,
+            "question": "Quel nom donne-t-on à un groupe d'abeilles vivant en société ?",
+            "propositions": [
+              "Colonie",
+              "Guilde",
+              "Niche",
+              "Écotype"
+            ],
+            "réponse": "Colonie",
+            "anecdote": "En biologie, une colonie est un groupe d'organismes de la même espèce vivant rassemblés selon un mode de vie particulier."
+          },
+          {
+            "id": 12,
+            "question": "Quelle espèce d'abeille est probablement la plus connue en Europe ?",
+            "propositions": [
+              "Apis dorsata",
+              "Apis cerana",
+              "Apis mellifera",
+              "Apis florea"
+            ],
+            "réponse": "Apis mellifera",
+            "anecdote": "Semi-domestique, le nom de genre Apis est le terme latin pour abeille, et mellifera signifie qui donne du miel."
+          },
+          {
+            "id": 13,
+            "question": "Quelle est la durée de vie moyenne d'une abeille durant les mois d'été ?",
+            "propositions": [
+              "Trois mois",
+              "Un mois",
+              "Quatre mois",
+              "Deux mois"
+            ],
+            "réponse": "Un mois",
+            "anecdote": "Se nourrissant du nectar des fleurs, une abeille peut vivre jusqu'à dix mois en hiver et seulement un mois en été."
+          },
+          {
+            "id": 14,
+            "question": "Quelle expression désigne une espèce d'abeille vivant en colonie ?",
+            "propositions": [
+              "Abeille solitaire",
+              "Abeille à miel",
+              "Abeille parasite",
+              "Abeille sociale"
+            ],
+            "réponse": "Abeille sociale",
+            "anecdote": "D'autres espèces sont des abeilles parasites ou abeilles coucous qui pratiquent le cleptoparasitisme."
+          },
+          {
+            "id": 15,
+            "question": "De quoi la larve d'une future reine des abeilles est-elle exclusivement nourrie ?",
+            "propositions": [
+              "Sédiments",
+              "Sel",
+              "Gelée royale",
+              "Insectes"
+            ],
+            "réponse": "Gelée royale",
+            "anecdote": "La gelée royale est le produit de sécrétion des abeilles ouvrières, entre le cinquième et le quatorzième jour de leur existence."
+          },
+          {
+            "id": 16,
+            "question": "Comment appelle-t-on un rassemblement important d'abeilles ?",
+            "propositions": [
+              "Manteau",
+              "Grappe",
+              "Sac",
+              "Essaim"
+            ],
+            "réponse": "Essaim",
+            "anecdote": "Le phénomène dit de nuée n'a pas d'origine météorologique directe mais est saisonnier et lié aux épisodes de sécheresse."
+          },
+          {
+            "id": 17,
+            "question": "Quelle abeille est la grande favorite de l'apiculture en Europe ?",
+            "propositions": [
+              "Abeille bleue",
+              "Abeille noire",
+              "Abeille rouge",
+              "Abeille blanche"
+            ],
+            "réponse": "Abeille noire",
+            "anecdote": "Son aire de répartition originale s'étendait de l'ouest de la Russie à l'Europe du Nord et probablement à la péninsule ibérique."
+          },
+          {
+            "id": 18,
+            "question": "Que se passe-t-il pour l'abeille lorsque celle-ci utilise son dard cranté pour piquer ?",
+            "propositions": [
+              "Elle boit",
+              "Elle gonfle",
+              "Elle dort",
+              "Elle meurt"
+            ],
+            "réponse": "Elle meurt",
+            "anecdote": "La piqûre entraîne une partie des organes internes de l'abeille, dont son sac à venin, ce qui est presque toujours fatal à l'abeille."
+          },
+          {
+            "id": 19,
+            "question": "Comment appelle-t-on l'ensemble des ruches d'un apiculteur ?",
+            "propositions": [
+              "Grappe",
+              "Rucher",
+              "Colonie",
+              "Essaim"
+            ],
+            "réponse": "Rucher",
+            "anecdote": "L'emplacement des ruchers se fait notamment en fonction de l'environnement et de l'exposition (de préférence sud ou sud-est)."
+          },
+          {
+            "id": 20,
+            "question": "Quel film d'animation raconte la vie d'une abeille fraîchement diplômée ?",
+            "propositions": [
+              "Happy Feet",
+              "Bee Movie",
+              "Le Lorax",
+              "Rosa"
+            ],
+            "réponse": "Bee Movie",
+            "anecdote": "Ce film d'animation en images de synthèse sorti en 2007 a été écrit et produit par Jerry Seinfeld pour DreamWorks SKG."
+          }
+        ],
+        "expert": [
+          {
+            "id": 21,
+            "question": "Dans quelle résine a-t-on retrouvé les plus anciens fossiles d'abeilles ?",
+            "propositions": [
+              "Turquoise",
+              "Jais",
+              "Ambre",
+              "Opale"
+            ],
+            "réponse": "Ambre",
+            "anecdote": "Le plus vieux fossile à ce jour est Melittosphex burmensis, daté de 100 millions d'années et découvert en 2006 en Birmanie."
+          },
+          {
+            "id": 22,
+            "question": "De combien de castes une colonie d'abeilles est-elle composée ?",
+            "propositions": [
+              "Quatre",
+              "Trois",
+              "Six",
+              "Cinq"
+            ],
+            "réponse": "Trois",
+            "anecdote": "La reine, l'unique femelle fertile du groupe, une majorité d'ouvrières et des mâles (ou faux-bourdons) qui fécondent les futures reines."
+          },
+          {
+            "id": 23,
+            "question": "Quelles abeilles utilisent des galeries creusées dans le bois ?",
+            "propositions": [
+              "Horticoles",
+              "Vinicoles",
+              "Xylicoles",
+              "Rubicoles"
+            ],
+            "réponse": "Xylicoles",
+            "anecdote": "Un xylophage est un organisme vivant dont le régime alimentaire est composé principalement d'aubier, mais aussi de bois parfait."
+          },
+          {
+            "id": 24,
+            "question": "Jusqu'à combien d'oeufs la reine des abeilles peut-elle pondre environ en une année ?",
+            "propositions": [
+              "300 000",
+              "100 000",
+              "400 000",
+              "200 000"
+            ],
+            "réponse": "400 000",
+            "anecdote": "Quand sa spermathèque commence à se vider, elle ne peut plus pondre d'oeufs d'ouvrières et sa diffusion de phéromones se modifie."
+          },
+          {
+            "id": 25,
+            "question": "Quel processus fait naître une nouvelle reine-mère pour la ruche ?",
+            "propositions": [
+              "Ruchage",
+              "Restaurage",
+              "Reinage",
+              "Remérage"
+            ],
+            "réponse": "Remérage",
+            "anecdote": "La colonie amorce alors le périlleux processus de nourrir plusieurs nymphes de gelée royale, la survie de la colonie en dépendant."
+          },
+          {
+            "id": 26,
+            "question": "Dans quelle maternité de la ruche se développent les futures abeilles ?",
+            "propositions": [
+              "Dortoir",
+              "Couvain",
+              "Levant",
+              "Bûcher"
+            ],
+            "réponse": "Couvain",
+            "anecdote": "Il est généralement situé au centre de la ruche et est entouré de rayons de miel et de pollen (pain d'abeille) pour l'alimenter."
+          },
+          {
+            "id": 27,
+            "question": "Comment les abeilles évitent-elles d'engendrer un organisme étouffant ?",
+            "propositions": [
+              "Ruchage",
+              "Pollinage",
+              "Remérage",
+              "Essaimage"
+            ],
+            "réponse": "Essaimage",
+            "anecdote": "Ce phénomène a lieu quand une partie des abeilles quitte la ruche avec une reine (l'essaim) pour former une nouvelle colonie."
+          },
+          {
+            "id": 28,
+            "question": "Quelle pratique consiste à soigner avec les produits de la ruche ?",
+            "propositions": [
+              "Ayurveda",
+              "Apithérapie",
+              "Oligothérapie",
+              "Phytothérapie"
+            ],
+            "réponse": "Apithérapie",
+            "anecdote": "L'apithérapie propose d'utiliser les propriétés supposées du miel, de la propolis, du venin d'abeilles, de la gelée royale et du pollen."
+          },
+          {
+            "id": 29,
+            "question": "Quel choc une piqûre d'abeille peut-elle parfois entraîner sur l'homme ?",
+            "propositions": [
+              "Macrophage",
+              "Antigène",
+              "Anaphylactique",
+              "Perforin"
+            ],
+            "réponse": "Anaphylactique",
+            "anecdote": "Il s'agit d'une manifestation d'hypersensibilité immédiate due à la libération de médiateurs vaso-actifs chez un sujet sensibilisé."
+          },
+          {
+            "id": 30,
+            "question": "Qu'ont remplacé les abeilles impériales de Napoléon Bonaparte ?",
+            "propositions": [
+              "Fleur de lys",
+              "Bleuet",
+              "Trèfle",
+              "Myosotis"
+            ],
+            "réponse": "Fleur de lys",
+            "anecdote": "Les fleurs de lis d'or sur champ d'azur devinrent les armes de France et l'emblème spécifique des rois de France."
+          }
+        ]
+        }
+      }
+    },
+    {       
+      "id": 2,                              
+      "rédacteur": "Ponch - Edofo",
+      "cat": "Animaux",
+      "thème": "Animaux en chiffres",         
+      "difficulté": "4 / 5",
+      "img": "https://www.cdiscount.com/pdt2/1/3/0/1/550x550/shl7621107484130/rw/10pcs-ballon-gonflable-chiffre-numero-0-9-dessin-a.jpg",
+      "quizz": {
+        "fr": {
+          "débutant": [
+          {
+            "id": 1,
+            "question": "Combien de temps dure en moyenne la gestation d'une éléphante ?",
+            "propositions": [
+              "13 mois",
+              "17 mois",
+              "21 mois",
+              "9 mois"
+            ],
+            "réponse": "21 mois",
+            "anecdote": "Une éléphante peut être en gestation jusqu'à l'âge de cinquante ans, où un seul éléphant est porté dans la plupart des cas."
+          },
+          {
+            "id": 2,
+            "question": "À combien de pulsations par minute bat le coeur d'un hérisson en hibernation ?",
+            "propositions": [
+              "28",
+              "18",
+              "8",
+              "38"
+            ],
+            "réponse": "18",
+            "anecdote": "Il ne faut pas confondre les hérissons avec d'autres mammifères porteurs de piquants, comme par exemple les porcs-épics."
+          },
+          {
+            "id": 3,
+            "question": "Jusqu'à combien de kilomètres le cri du singe hurleur est-il audible ?",
+            "propositions": [
+              "3 km",
+              "12 km",
+              "9 km",
+              "6 km"
+            ],
+            "réponse": "3 km",
+            "anecdote": "Ce singe hurle chaque matin, et quand il combat avec d'autres singes hurleurs, ils se battent également à coups de hurlements."
+          },
+          {
+            "id": 4,
+            "question": "En quelle année le dernier dodo vivant a-t-il été vu à l'île Maurice ?",
+            "propositions": [
+              "1723",
+              "1681",
+              "1908",
+              "1832"
+            ],
+            "réponse": "1681",
+            "anecdote": "En plus de son incapacité à voler, le dodo n'avait développé aucune peur à l'encontre des êtres humains, faisant de lui une proie facile."
+          },
+          {
+            "id": 5,
+            "question": "Combien de bisons environ Buffalo Bill a-t-il abattus en 18 mois seulement ?",
+            "propositions": [
+              "1 000",
+              "3 000",
+              "4 000",
+              "2 000"
+            ],
+            "réponse": "4 000",
+            "anecdote": "Le chapeau stetson ainsi que le bandana ont été popularisés par Buffalo Bill alors que tous les cow-boys n'en portaient pas forcément."
+          },
+          {
+            "id": 6,
+            "question": "Jusqu'à quelle altitude vivent en général les bouquetins des Alpes ?",
+            "propositions": [
+              "3 500 m",
+              "4 600 m",
+              "1 900 m",
+              "2 300 m"
+            ],
+            "réponse": "3 500 m",
+            "anecdote": "Le milieu de prédilection du bouquetin des Alpes comprend des murailles abruptes, des falaises à pics ou des parois escarpées."
+          },
+          {
+            "id": 7,
+            "question": "Combien de minutes une otarie peut-elle nager sous l'eau sans respirer ?",
+            "propositions": [
+              "5 min",
+              "9 min",
+              "7 min",
+              "11 min"
+            ],
+            "réponse": "5 min",
+            "anecdote": "Contrairement aux phoques, les otaries pourvuent de nageoires se servent à terre de leurs postérieurs pour marcher."
+          },
+          {
+            "id": 8,
+            "question": "Quelle est, en centimètres, la longueur de la langue d'un fourmilier adulte ?",
+            "propositions": [
+              "50 cm",
+              "60 cm",
+              "70 cm",
+              "80 cm"
+            ],
+            "réponse": "60 cm",
+            "anecdote": "Le plus grand représentant du groupe est le fourmilier géant ou grand tamanoir, un animal mesurant plus d'un mètre de longueur."
+          },
+          {
+            "id": 9,
+            "question": "Quel est le pourcentage de rongeurs parmi les mammifères ?",
+            "propositions": [
+              "30 %",
+              "40 %",
+              "10 %",
+              "20 %"
+            ],
+            "réponse": "40 %",
+            "anecdote": "Ces animaux se caractérisent par leur unique paire d'incisives qui leur servent à ronger, à creuser des galeries ou à se défendre."
+          },
+          {
+            "id": 10,
+            "question": "Combien de fois par minute un fourmilier peut-il sortir la langue de sa gueule ?",
+            "propositions": [
+              "120 fois",
+              "160 fois",
+              "80 fois",
+              "40 fois"
+            ],
+            "réponse": "160 fois",
+            "anecdote": "Le fourmilier mange surtout des fourmis, mais il aime aussi les termites et d'autres insectes comme la coccinelle."
+          }
+        ],
+        "confirmé": [
+          {
+            "id": 11,
+            "question": "Jusqu'à combien de kilos de viande une hyène peut-elle manger au cours d'un repas ?",
+            "propositions": [
+              "14 kg",
+              "34 kg",
+              "4 kg",
+              "24 kg"
+            ],
+            "réponse": "14 kg",
+            "anecdote": "Il est impossible de discerner par la simple observation un mâle hyène d'une femelle tant l'un et l'autre se ressemblent."
+          },
+          {
+            "id": 12,
+            "question": "Quel est le poids moyen de la langue d'une baleine bleue adulte ?",
+            "propositions": [
+              "2,7 tonnes",
+              "1,3 tonne",
+              "2,2 tonnes",
+              "880 kg"
+            ],
+            "réponse": "2,7 tonnes",
+            "anecdote": "Quand la gueule de la baleine bleue est complètement ouverte, elle est assez grande pour contenir 90 tonnes d'eau et de nourriture."
+          },
+          {
+            "id": 13,
+            "question": "Combien une reine termite pond-elle d'oeufs en moyenne par jour ?",
+            "propositions": [
+              "120",
+              "30",
+              "90",
+              "60"
+            ],
+            "réponse": "30",
+            "anecdote": "D'un couple de termites naissent des larves qui donnent des ouvriers stériles ou des nymphes qui donneront des adultes sexués."
+          },
+          {
+            "id": 14,
+            "question": "Quelle vitesse un léopard au repos peut-il atteindre en seulement deux secondes ?",
+            "propositions": [
+              "60 km/h",
+              "100 km/h",
+              "80 km/h",
+              "40 km/h"
+            ],
+            "réponse": "60 km/h",
+            "anecdote": "Le léopard tient une place importante dans certaines cultures africaines où ce roi des animaux est l'attribut des chefs."
+          },
+          {
+            "id": 15,
+            "question": "Combien de minutes un cachalot peut-il rester sous l'eau sans respirer ?",
+            "propositions": [
+              "70 min",
+              "50 min",
+              "30 min",
+              "90 min"
+            ],
+            "réponse": "90 min",
+            "anecdote": "La chasse au cachalot permettait de récolter le spermaceti, substance blanche et cireuse issue de la tête de l'animale."
+          },
+          {
+            "id": 16,
+            "question": "Quelle vitesse un faucon pèlerin peut-il atteindre lorsqu'il fond sur sa proie ?",
+            "propositions": [
+              "120 km/h",
+              "240 km/h",
+              "200 km/h",
+              "160 km/h"
+            ],
+            "réponse": "240 km/h",
+            "anecdote": "Ses proies sont souvent des oiseaux, mais certains individus peuvent également s'attaquer à de petits animaux terrestres."
+          },
+          {
+            "id": 17,
+            "question": "Combien de millilitres de sang une chauve-souris vampire peut-elle boire en une nuit ?",
+            "propositions": [
+              "20 ml",
+              "60 ml",
+              "80 ml",
+              "40 ml"
+            ],
+            "réponse": "20 ml",
+            "anecdote": "La chauve-souris vampire est originaire des zones tropicales du continent américain (Mexique, Chili, Brésil et Argentine)."
+          },
+          {
+            "id": 18,
+            "question": "Par quel facteur le poids d'un ours blanc est-il multiplié deux mois après sa naissance ?",
+            "propositions": [
+              "55",
+              "45",
+              "35",
+              "25"
+            ],
+            "réponse": "25",
+            "anecdote": "Parfaitement adapté à son habitat, l'ours blanc possède une épaisse couche de graisse et une fourrure qui l'isolent du froid."
+          },
+          {
+            "id": 19,
+            "question": "Combien de fois compte-t-on plus de serpents non venimeux que venimeux ?",
+            "propositions": [
+              "1 300 fois",
+              "1 100 fois",
+              "1 700 fois",
+              "1 500 fois"
+            ],
+            "réponse": "1 700 fois",
+            "anecdote": "La plupart des serpents possèdent une langue bifide, des yeux sans paupière, un crâne articulé et des mâchoires mobiles."
+          },
+          {
+            "id": 20,
+            "question": "Combien d'oeufs pond en moyenne un crocodile du Nil en bonne santé ?",
+            "propositions": [
+              "70",
+              "130",
+              "100",
+              "40"
+            ],
+            "réponse": "100",
+            "anecdote": "À l'éclosion des oeufs, le bébé crocodile mesure environ 30 cm et a le même corps que sa mère, qu'il soit mâle ou femelle."
+          }
+        ],
+        "expert": [
+          {
+            "id": 21,
+            "question": "Quelle est la longueur maximale du bond que peut effectuer un puma ?",
+            "propositions": [
+              "10 m",
+              "6 m",
+              "8 m",
+              "12 m"
+            ],
+            "réponse": "12 m",
+            "anecdote": "Pour les besoins de la chasse ou en cas de menace, il est capable de grimper aux arbres et de faire preuve d'une grande agilité."
+          },
+          {
+            "id": 22,
+            "question": "Combien un moustique normalement constitué a-t-il de dents ?",
+            "propositions": [
+              "34",
+              "11",
+              "47",
+              "29"
+            ],
+            "réponse": "47",
+            "anecdote": "Les adultes se nourrissent de nectar de fleurs et participent à la pollinisation des plantes, au même titre que les papillons."
+          },
+          {
+            "id": 23,
+            "question": "Quelle est la longueur en centimètres d'un intestin de koala ?",
+            "propositions": [
+              "100 cm",
+              "400 cm",
+              "200 cm",
+              "300 cm"
+            ],
+            "réponse": "300 cm",
+            "anecdote": "Le koala est étroitement lié à l'eucalyptus ou gommier, dont il ne mange que les feuilles de certaines espèces."
+          },
+          {
+            "id": 24,
+            "question": "Combien de jours dure l'hibernation d'un écureuil d'Alaska ?",
+            "propositions": [
+              "270 jours",
+              "320 jours",
+              "410 jours",
+              "180 jours"
+            ],
+            "réponse": "270 jours",
+            "anecdote": "La queue en panache de l'écureuil et son acharnement à faire des provisions pour l'hiver ont contribué à sa popularité."
+          },
+          {
+            "id": 25,
+            "question": "Quelle est la vitesse maximale déjà atteinte par l'espadon-voilier ?",
+            "propositions": [
+              "89 km/h",
+              "109 km/h",
+              "119 km/h",
+              "99 km/h"
+            ],
+            "réponse": "109 km/h",
+            "anecdote": "Possédant des stries verticales sur les flancs, l'espadon-voilier est considéré comme étant le plus rapide des poissons."
+          },
+          {
+            "id": 26,
+            "question": "Combien d'animaux du zoo de Berlin survécurent à la Seconde Guerre mondiale ?",
+            "propositions": [
+              "1 712",
+              "344",
+              "91",
+              "892"
+            ],
+            "réponse": "91",
+            "anecdote": "Les premiers dons d'animaux au zoo de Berlin, fondé en 1844, furent effectués par Frédéric-Guillaume IV, roi de Prusse."
+          },
+          {
+            "id": 27,
+            "question": "Sur mille tortues marines, combien seulement atteignent l'âge de se reproduire ?",
+            "propositions": [
+              "100",
+              "15",
+              "250",
+              "640"
+            ],
+            "réponse": "15",
+            "anecdote": "Les tortues marines, bien que vulnérables, sont présentes dans tous les océans du monde, à l'exception de l'océan Arctique."
+          },
+          {
+            "id": 28,
+            "question": "Combien de fois par seconde un colibri peut-il battre des ailes ?",
+            "propositions": [
+              "78 fois",
+              "58 fois",
+              "38 fois",
+              "18 fois"
+            ],
+            "réponse": "78 fois",
+            "anecdote": "Les colibris sont également surnommés oiseaux-mouches à cause de leur petite taille et de leurs battements d'ailes rapides."
+          },
+          {
+            "id": 29,
+            "question": "Au sens large du terme, combien existe-t-il d'espèces de kangourous ?",
+            "propositions": [
+              "37",
+              "44",
+              "63",
+              "51"
+            ],
+            "réponse": "63",
+            "anecdote": "Animal emblématique de l'Australie, le grand kangourou y est plus populaire dans les campagnes que dans les villes."
+          },
+          {
+            "id": 30,
+            "question": "Combien a-t-on découvert jusqu'ici d'espèces de coléoptères ?",
+            "propositions": [
+              "9 600",
+              "8 700",
+              "7 200",
+              "6 400"
+            ],
+            "réponse": "9 600",
+            "anecdote": "Les scarabées, les coccinelles, les lucanes, les chrysomèles, les hannetons et les charançons sont des coléoptères."
+          }
+        ]
+        }
+      }
+    },
+    {          
+      "id": 3,                           
+      "rédacteur": "Ponch - Edofo",
+      "cat": "Animaux",
+      "thème": "Animaux en vrac",         
+      "difficulté": "2 / 5",
+      "img": "https://ae01.alicdn.com/kf/HTB1pscmof9TBuNjy0Fcq6zeiFXav/Japon-original-v-ritable-animaux-en-vrac-vison-Hamsters-li-vre-martre-gazelle-musaraigne-teinte-figurines.jpg",
+      "quizz": {
+        "fr": {
+          "débutant": [
+          {
+            "id": 1,
+            "question": "Pourquoi les ours polaires se couchent-ils dans la neige lorsqu'ils courent ?",
+            "propositions": [
+              "Se rafraîchir",
+              "Dormir",
+              "Se reposer",
+              "Manger"
+            ],
+            "réponse": "Se rafraîchir",
+            "anecdote": "Les ours polaires peuvent rapidement avoir trop chaud sous leur fourrure très épaisse et leur couche de graisse isolante."
+          },
+          {
+            "id": 2,
+            "question": "Quelle partie du corps permet aux hippocampes de nager ?",
+            "propositions": [
+              "Queue",
+              "Nageoire dorsale",
+              "Nageoire ventrale",
+              "Tête"
+            ],
+            "réponse": "Nageoire dorsale",
+            "anecdote": "Malgré qu'ils soient des poissons, les hippocampes ne nagent que très lentement en effectuant des mouvements onduleux."
+          },
+          {
+            "id": 3,
+            "question": "Pour quelle raison ne pouvons-nous pas entendre les cris de la chauve-souris ?",
+            "propositions": [
+              "Trop aigu",
+              "Trop faible",
+              "Trop fort",
+              "Trop grave"
+            ],
+            "réponse": "Trop aigu",
+            "anecdote": "Les chauves-souris émettent et reçoivent des ultrasons que notre oreille ne peut percevoir (max 20 000 hertz)."
+          },
+          {
+            "id": 4,
+            "question": "À quoi servait la coquille du tridacne géant dans de nombreuses églises ?",
+            "propositions": [
+              "Tronc",
+              "Chandelier",
+              "Bénitier",
+              "Corbeille à pain"
+            ],
+            "réponse": "Bénitier",
+            "anecdote": "Il y a 300 ans, les coquilles étaient considérées comme des objets précieux et servaient de bénitier à l'entrée des églises."
+          },
+          {
+            "id": 5,
+            "question": "Quelle lourde et pénible tâche incombe à la reine des fourmis ?",
+            "propositions": [
+              "Pondre des oeufs",
+              "Défendre le nid",
+              "Chercher à manger",
+              "Tuer les mâles"
+            ],
+            "réponse": "Pondre des oeufs",
+            "anecdote": "La reine est la seule fourmi du nid à pondre des oeufs qui sont en réalité des larves écloses dont naîtront les futures fourmis."
+          },
+          {
+            "id": 6,
+            "question": "Qu'est-ce que les coccinelles aiment tout particulièrement manger ?",
+            "propositions": [
+              "Pétales",
+              "Pucerons",
+              "Éxcréments",
+              "Écorces"
+            ],
+            "réponse": "Pucerons",
+            "anecdote": "Considérées comme animaux utiles, on élève les coccinelles puis on les utilise pour combattre écologiquement les parasites."
+          },
+          {
+            "id": 7,
+            "question": "Pour quelle raison les nécrophores se battent-ils entre eux ?",
+            "propositions": [
+              "Des cadavres",
+              "Un territoire",
+              "Des femelles",
+              "De l'or"
+            ],
+            "réponse": "Des cadavres",
+            "anecdote": "Un couple de nécrophores enterre un animal mort dans le sol et y pond ses oeufs dont les larves sont nourries."
+          },
+          {
+            "id": 8,
+            "question": "De quel type d'environnement un acarien a-t-il besoin pour vivre ?",
+            "propositions": [
+              "Sec",
+              "Ensoleillé",
+              "Humide",
+              "Gras"
+            ],
+            "réponse": "Humide",
+            "anecdote": "Sans les acariens, qui nichent dans nos matelas et les endroits humides, les forêts seraient submergées de feuilles mortes."
+          },
+          {
+            "id": 9,
+            "question": "Quelle partie du corps de la limace lui permet-elle de découper les plantes ?",
+            "propositions": [
+              "Palais",
+              "Bras",
+              "Dents",
+              "Langue"
+            ],
+            "réponse": "Langue",
+            "anecdote": "Telle une lime, la langue rêche de la limace râpe les plantes tendres en petits morceaux et dépouille ainsi les jeunes salades."
+          },
+          {
+            "id": 10,
+            "question": "Quelle partie du corps montre le loup le plus faible après une lutte pour la hiérarchie ?",
+            "propositions": [
+              "Ses dents",
+              "Sa langue",
+              "Son ventre",
+              "Sa queue"
+            ],
+            "réponse": "Son ventre",
+            "anecdote": "Le loup inférieur n'est ainsi pas blessé mais devra à l'avenir se soumettre au mâle dominant, selon leur hiérarchie prononcée."
+          }
+        ],
+        "confirmé": [
+          {
+            "id": 11,
+            "question": "Quelle est la cause de mortalité la plus fréquente chez les éléphants en liberté ?",
+            "propositions": [
+              "Trompe cassée",
+              "Morsure de lion",
+              "Maladie",
+              "Usure des dents"
+            ],
+            "réponse": "Usure des dents",
+            "anecdote": "Lorsque la dernière molaire est usée par la mastication, l'éléphant ne peut plus se nourrir suffisamment et meurt tristement de faim."
+          },
+          {
+            "id": 12,
+            "question": "Grâce à quelle partie de son corps la taupe s'oriente-t-elle sous terre ?",
+            "propositions": [
+              "Vibrisses",
+              "Oreilles",
+              "Yeux",
+              "Museau"
+            ],
+            "réponse": "Vibrisses",
+            "anecdote": "Les taupes s'orientent presque exclusivement en utilisant une sorte de moustaches et tâtent leur nourriture de cette manière."
+          },
+          {
+            "id": 13,
+            "question": "À part le cheval, à quel autre animal le tapir est-il apparenté ?",
+            "propositions": [
+              "Éléphant",
+              "Hamster",
+              "Rhinocéros",
+              "Cochon"
+            ],
+            "réponse": "Rhinocéros",
+            "anecdote": "Les tapirs, de la famille des ongulés, utilisent leur trompe comme main et peuvent ainsi la rétracter lorsque celle-ci les gêne."
+          },
+          {
+            "id": 14,
+            "question": "Comment les mille-pattes se protègent-ils de leurs prédateurs ?",
+            "propositions": [
+              "Par leurs sécrétions",
+              "Par camouflage",
+              "En mordant",
+              "En criant"
+            ],
+            "réponse": "Par leurs sécrétions",
+            "anecdote": "En cas de danger, les mille-pattes émettent une substance rouge caustique à l'odeur nauséabonde via des glandes sur leurs anneaux."
+          },
+          {
+            "id": 15,
+            "question": "Quels animaux volent souvent aux hyènes la proie qu'elles ont chassée ?",
+            "propositions": [
+              "Gnous",
+              "Buffles",
+              "Guépards",
+              "Lions"
+            ],
+            "réponse": "Lions",
+            "anecdote": "Les hyènes chassent généralement en meute d'environ quarante individus des animaux tels que les zèbres ou les gnous."
+          },
+          {
+            "id": 16,
+            "question": "Combien pèse environ la plus petite espèce de musaraigne connue ?",
+            "propositions": [
+              "70 grammes",
+              "2 grammes",
+              "20 grammes",
+              "130 grammes"
+            ],
+            "réponse": "2 grammes",
+            "anecdote": "Notre musaraigne pygmée locale est, quant à elle, deux fois plus grande et plus lourde que ce pachyure étrusque."
+          },
+          {
+            "id": 17,
+            "question": "De quelle manière le lynx a-t-il l'habitude de marquer son territoire ?",
+            "propositions": [
+              "Éraflures",
+              "Poils",
+              "Souris mortes",
+              "Excréments"
+            ],
+            "réponse": "Éraflures",
+            "anecdote": "Outre des éraflures, les lynx utilisent parfois également leur urine comme marque odorante afin de délimiter leur domaine."
+          },
+          {
+            "id": 18,
+            "question": "Taillé pour la course, jusqu'à quelle vitesse un guépard peut-il courir ?",
+            "propositions": [
+              "60 km/h",
+              "90 km/h",
+              "150 km/h",
+              "120 km/h"
+            ],
+            "réponse": "120 km/h",
+            "anecdote": "Le plus rapide des animaux ne peut maintenir cette vitesse que sur quelques centaines de mètres, laissant une chance aux gazelles."
+          },
+          {
+            "id": 19,
+            "question": "Comment les cloportes se protègent-ils des attaques ?",
+            "propositions": [
+              "En s'envolant",
+              "En s'enterrant",
+              "En s'enroulant",
+              "En s'enfuyant"
+            ],
+            "réponse": "En s'enroulant",
+            "anecdote": "Le corps d'un cloporte, dans ce cas immobile, est composé de plusieurs anneaux solides qui rappellent une armure de chevalier."
+          },
+          {
+            "id": 20,
+            "question": "Quel animal est le plus grand ennemi connu de la buse variable ?",
+            "propositions": [
+              "Renard",
+              "Aigle",
+              "Homme",
+              "Ours brun"
+            ],
+            "réponse": "Homme",
+            "anecdote": "De nombreuses buses sont écrasées par l'homme lorsqu'elles tentent de récupérer des cadavres d'animaux sur les autoroutes."
+          }
+        ],
+        "expert": [
+          {
+            "id": 21,
+            "question": "Après combien de temps un bébé tigre reçoit-il de la viande pour la première fois ?",
+            "propositions": [
+              "Six ans",
+              "Un an",
+              "Six mois",
+              "Un mois"
+            ],
+            "réponse": "Six mois",
+            "anecdote": "Au cours des six premiers mois, les bébés tigres qui ne connaissent pas leur père sont allaités par leur mère."
+          },
+          {
+            "id": 22,
+            "question": "Combien de litres de lait une vache performante produit-elle chaque jour ?",
+            "propositions": [
+              "35 l",
+              "25 l",
+              "5 l",
+              "15 l"
+            ],
+            "réponse": "35 l",
+            "anecdote": "Ces vaches fortement exploitées souffrent le plus souvent d'une inflammation des pis et nécessitent beaucoup de médicaments."
+          },
+          {
+            "id": 23,
+            "question": "De quelle fonction vitale le fennec peut-il étonnamment se passer ?",
+            "propositions": [
+              "Voir",
+              "Dormir",
+              "Manger",
+              "Boire"
+            ],
+            "réponse": "Boire",
+            "anecdote": "Le liquide que le fennec absorbe grâce à son alimentation lui suffit et est donc admirablement adapté à la vie dans le désert."
+          },
+          {
+            "id": 24,
+            "question": "Quel est le plus grand des aras parmi les perroquets connus à ce jour ?",
+            "propositions": [
+              "Chloroptère",
+              "Macao",
+              "Hyacinthe",
+              "Ararauna"
+            ],
+            "réponse": "Hyacinthe",
+            "anecdote": "Ce perroquet d'environ 150 cm, queue comprise, possède un plumage bleu clair uni et vit principalement en Bolivie et au Brésil."
+          },
+          {
+            "id": 25,
+            "question": "De manière générale, combien d'heures par jour un panda géant est-il occupé à manger ?",
+            "propositions": [
+              "Huit",
+              "Seize",
+              "Quatre",
+              "Douze"
+            ],
+            "réponse": "Seize",
+            "anecdote": "Le panda géant mange uniquement des jeunes pousses de bambou mais celles-ci ne sont toutefois pas très nourrissantes."
+          },
+          {
+            "id": 26,
+            "question": "Combien de temps un bébé morse est-il allaité par sa mère ?",
+            "propositions": [
+              "1 mois",
+              "6 mois",
+              "18 mois",
+              "1 an"
+            ],
+            "réponse": "18 mois",
+            "anecdote": "Après une période de 12 mois de gestation, le bébé morse pèse plus de 50 kg et sait déjà nager au bout de deux semaines seulement."
+          },
+          {
+            "id": 27,
+            "question": "Pour quelle raison les martres tuent-elles parfois les poules ?",
+            "propositions": [
+              "Cuisses",
+              "Foie",
+              "Pattes",
+              "Sang"
+            ],
+            "réponse": "Sang",
+            "anecdote": "Les martres boivent uniquement le sang et laissent le reste, préférant manger des lapins, des oeufs, des lézards ou des insectes."
+          },
+          {
+            "id": 28,
+            "question": "De quoi est constituée la sonnette du serpent à sonnette ?",
+            "propositions": [
+              "Corne",
+              "Calcaire",
+              "Bois",
+              "Pierres"
+            ],
+            "réponse": "Corne",
+            "anecdote": "Les six à dix anneaux de corne situés à l'extrémité de la queue du serpent à sonnette proviennent des mues précédentes."
+          },
+          {
+            "id": 29,
+            "question": "Durant quelle saison de l'année peut-on entendre le hibou crier ?",
+            "propositions": [
+              "Automne",
+              "Été",
+              "Printemps",
+              "Hiver"
+            ],
+            "réponse": "Printemps",
+            "anecdote": "Le hibou mâle crie en avril et en mai pour attirer l'attention d'une femelle qui restera alors toute sa vie fidèlement à ses côtés."
+          },
+          {
+            "id": 30,
+            "question": "De combien de piquants est composée la fourrure du hérisson mâle ?",
+            "propositions": [
+              "12 000",
+              "4 000",
+              "8 000",
+              "16 000"
+            ],
+            "réponse": "16 000",
+            "anecdote": "En cas de danger, le hérisson peut ainsi dresser ses nombreux piquants et s'enrouler sur lui-même pour se protéger des ennemis."
+          }
+        ]
+      }
+      }
+    },
+    {           
+      "id": 4,                          
+      "rédacteur": "Ponch - Edofo",
+      "cat": "Animaux",
+      "thème": "Animaux et habitats",         
+      "difficulté": "2 / 5",
+      "img": "https://soutien67.fr/svt/animaux/habitat/images/Carte_01.png",
+      "quizz": {
+        "fr": {
+          "débutant": [
+          {
+            "id": 1,
+            "question": "Quel animal vertébré retrouve-t-on la plupart du temps dans un aquarium communautaire ?",
+            "propositions": [
+              "Un poisson",
+              "Une fourmi",
+              "Un oiseau",
+              "Un lapin"
+            ],
+            "réponse": "Un poisson",
+            "anecdote": "Un aquarium est une reproduction de l'habitat naturel de l'espèce ou des espèces qui habite(ent) dans cet aquarium."
+          },
+          {
+            "id": 2,
+            "question": "Où irez-vous pour acheter le chien dont vous avez toujours rêvé ?",
+            "propositions": [
+              "Au nichoir",
+              "Au zoo",
+              "Au chenil",
+              "Au clapier"
+            ],
+            "réponse": "Au chenil",
+            "anecdote": "Un chenil est un établissement destiné à l'élevage ou à la pension de chiens ou bien, dans un château, le bâtiment qui abrite la meute."
+          },
+          {
+            "id": 3,
+            "question": "Quelle  bâtisse est destinée au logement des ânes, chevaux et autres mulets ?",
+            "propositions": [
+              "Une écurie",
+              "Un ranch",
+              "Un hippodrome",
+              "Une arène"
+            ],
+            "réponse": "Une écurie",
+            "anecdote": "Les différents éléments qui composent l'écurie doivent satisfaire aux conditions d'hygiène nécessaires au maintien en intérieur d'équidés."
+          },
+          {
+            "id": 4,
+            "question": "Quel habitat a pour but de protéger la ou les reines chez les fourmis ?",
+            "propositions": [
+              "Un colombier",
+              "Une fourmilière",
+              "Un insectarium",
+              "Une ruche"
+            ],
+            "réponse": "Une fourmilière",
+            "anecdote": "La fourmilière est généralement un endroit que les fourmis ont construit par excavation ou par construction de dômes."
+          },
+          {
+            "id": 5,
+            "question": "Quel circuit, généralement de forme ovale, est aujourd'hui dévolu au sport hippique ?",
+            "propositions": [
+              "Delphinarium",
+              "Vivarium",
+              "Cynodrome",
+              "Hippodrome"
+            ],
+            "réponse": "Hippodrome",
+            "anecdote": "D'origine antique, disposant de gradins ou de tribunes, les hippodromes étaient alors dévolus aux courses de chars."
+          },
+          {
+            "id": 6,
+            "question": "Quel endroit renferme généralement une collection d'insectes vivants ou morts ?",
+            "propositions": [
+              "Un vivarium",
+              "Un insectarium",
+              "Un cynodrome",
+              "Un delphinarium"
+            ],
+            "réponse": "Un insectarium",
+            "anecdote": "Un insectarium n'est pas forcément accessible au grand public s'il est implanté dans l'enceinte d'une université ou d'un laboratoire."
+          },
+          {
+            "id": 7,
+            "question": "Quel abri situé à l'extérieur des maisons est spécifiquement fabriqué pour les chiens ?",
+            "propositions": [
+              "La garenne",
+              "La niche",
+              "Le clapier",
+              "La bauge"
+            ],
+            "réponse": "La niche",
+            "anecdote": "Charles M. Schulz, le dessinateur des « Peanuts », représente souvent le chien Snoopy allongé sur le toit de sa niche."
+          },
+          {
+            "id": 8,
+            "question": "Quel bâtiment est conçu et adapté pour l'élevage intensif des porcs ?",
+            "propositions": [
+              "Une volière",
+              "Une écloserie",
+              "Une bauge",
+              "Une porcherie"
+            ],
+            "réponse": "Une porcherie",
+            "anecdote": "Les premières porcheries datent probablement de l'antiquité et semblaient être des enclos avec un abri simple."
+          },
+          {
+            "id": 9,
+            "question": "Dans quel bâtiment, généralement de taille modeste, élève-t-on de la volaille ?",
+            "propositions": [
+              "Un manège",
+              "Un clapier",
+              "Un poulailler",
+              "Un toril"
+            ],
+            "réponse": "Un poulailler",
+            "anecdote": "Les volailles aiment vivre à l'extérieur mais le poulailler procure un abri contre la neige, les prédateurs et pour la nuit."
+          },
+          {
+            "id": 10,
+            "question": "Dans quelle structure artificielle presque fermée est-il possible de récolter du miel ?",
+            "propositions": [
+              "Une écloserie",
+              "Un nichoir",
+              "Un clapier",
+              "Une ruche"
+            ],
+            "réponse": "Une ruche",
+            "anecdote": "L'intérieur de la ruche est composé de rayons formés par des cellules hexagonales de cire d'abeille."
+          }
+        ],
+        "confirmé": [
+          {
+            "id": 11,
+            "question": "Dans quel aquarium artificiel pouvez-vous voir jouer des dauphins avec leurs dresseurs ?",
+            "propositions": [
+              "Un delphinarium",
+              "Un insectarium",
+              "Un vivarium",
+              "Une magnanerie"
+            ],
+            "réponse": "Un delphinarium",
+            "anecdote": "Les delphinariums sont des structures ouvertes au public, souvent intégrées dans des parcs d'attraction ou des parcs zoologiques."
+          },
+          {
+            "id": 12,
+            "question": "Quel abri artificiel aménagé par l'homme est aussi appelé cabane à oiseaux ?",
+            "propositions": [
+              "Frayère",
+              "Poulailler",
+              "Nichoir",
+              "Garenne"
+            ],
+            "réponse": "Nichoir",
+            "anecdote": "La construction et l'aménagement de nichoirs n'offrent qu'une maigre compensation face à la disparition des sites naturels."
+          },
+          {
+            "id": 13,
+            "question": "Dans quel endroit pratique-t-on l'élevage extensif de bétail dans le Sud des États-Unis ?",
+            "propositions": [
+              "Vivarium",
+              "Manège",
+              "Ranch",
+              "Hippodrome"
+            ],
+            "réponse": "Ranch",
+            "anecdote": "Les ranchs peuvent être de toute taille, certains disposent de terres arables, irriguées ou non, produisant des récoltes fourragères."
+          },
+          {
+            "id": 14,
+            "question": "Dans quel espace sont réunies de nombreuses espèces animales vivantes ?",
+            "propositions": [
+              "Un zoo",
+              "Une garenne",
+              "Une fourmilière",
+              "Un chenil"
+            ],
+            "réponse": "Un zoo",
+            "anecdote": "On recense plus de 2 000 zoos dans le monde, attirant un ensemble de près de 350 millions de visiteurs par an."
+          },
+          {
+            "id": 15,
+            "question": "Quel animal se déplace parfois sauvagement dans une arène ?",
+            "propositions": [
+              "Un boeuf",
+              "Un âne",
+              "Un taureau",
+              "Un zèbre"
+            ],
+            "réponse": "Un taureau",
+            "anecdote": "Cet édifice dans son architecture actuelle dite « arène espagnole » est né en Espagne à la fin du XVIIIe siècle."
+          },
+          {
+            "id": 16,
+            "question": "Dans quoi sont généralement réunis les lapins au fond des jardins ?",
+            "propositions": [
+              "Une écloserie",
+              "Une volière",
+              "Un clapier",
+              "Un nichoir"
+            ],
+            "réponse": "Un clapier",
+            "anecdote": "Le clapier comporte habituellement plusieurs cases souvent dotées de portes grillagées, chaque case étant affectée à un lapin."
+          },
+          {
+            "id": 17,
+            "question": "En aquaculture, quelle installation est destinée à produire des larves ou des alevins ?",
+            "propositions": [
+              "Un toril",
+              "Une frayère",
+              "Une bauge",
+              "Une écloserie"
+            ],
+            "réponse": "Une écloserie",
+            "anecdote": "Une écloserie permet de vendre à des ostréiculteurs des naissains d'huîtres appropriés à leurs besoins."
+          },
+          {
+            "id": 18,
+            "question": "Quel endroit couvert, au sol meuble et souple, permet de faire travailler les chevaux ?",
+            "propositions": [
+              "Le manège",
+              "Le ranch",
+              "Le toril",
+              "La bauge"
+            ],
+            "réponse": "Le manège",
+            "anecdote": "Idéalement, un manège est couvert et fermé pour permettre de travailler quel que soit le temps."
+          },
+          {
+            "id": 19,
+            "question": "À l'époque féodale, quel édifice était destiné à loger et à élever des pigeons ?",
+            "propositions": [
+              "La porcherie",
+              "Le cynodrome",
+              "Le colombier",
+              "Le manège"
+            ],
+            "réponse": "Le colombier",
+            "anecdote": "Le colombier désigne encore les édifices de la Renaissance et du début des Temps modernes."
+          },
+          {
+            "id": 20,
+            "question": "Quelle cage de grande taille est destinée à contenir des oiseaux ?",
+            "propositions": [
+              "Volière",
+              "Bauge",
+              "Colombier",
+              "Écloserie"
+            ],
+            "réponse": "Volière",
+            "anecdote": "La cage est très souvent reprise comme symbole ou comme métaphore pour désigner l'emprisonnement."
+          }
+        ],
+        "expert": [
+          {
+            "id": 21,
+            "question": "Quel animal aux longues oreilles peut donner du lait dans une asinerie ?",
+            "propositions": [
+              "Une ânesse",
+              "Une chèvre",
+              "Une brebis",
+              "Une vache"
+            ],
+            "réponse": "Une ânesse",
+            "anecdote": "Très vite, l'âne est aussi devenu l'animal de transport terrestre privilégié en raison de ses larges qualités."
+          },
+          {
+            "id": 22,
+            "question": "Dans quel espace boisé ou herbeux vivent les lapins sauvages ?",
+            "propositions": [
+              "La garenne",
+              "Le clapier",
+              "La bauge",
+              "Le manège"
+            ],
+            "réponse": "La garenne",
+            "anecdote": "À l'origine, la garenne est un espace réservé à certaines espèces de gibier et où les animaux peuvent trouver pâture."
+          },
+          {
+            "id": 23,
+            "question": "Quel établissement ouvert au public présente des espèces animales marines ?",
+            "propositions": [
+              "Écloserie",
+              "Vivarium",
+              "Zoo",
+              "Oceanarium"
+            ],
+            "réponse": "Oceanarium",
+            "anecdote": "Le premier oceanarium connu fut établi à St Augustine en Floride, en 1938, sous le nom des « Marine Studios »."
+          },
+          {
+            "id": 24,
+            "question": "Dans quelle cage vitrée élève-t-on le plus souvent des reptiles et des amphibiens ?",
+            "propositions": [
+              "Un vivarium",
+              "Un oceanarium",
+              "Une magnanerie",
+              "Une écloserie"
+            ],
+            "réponse": "Un vivarium",
+            "anecdote": "Les conditions climatiques telles que la ventilation, la lumière, la température et l'humidité y sont ajustées artificiellement."
+          },
+          {
+            "id": 25,
+            "question": "Dans quel système de construction en terre crue dorment les sangliers ?",
+            "propositions": [
+              "Manège",
+              "Bauge",
+              "Garenne",
+              "Porcherie"
+            ],
+            "réponse": "Bauge",
+            "anecdote": "La terre est dans un état plastique, généralement mélangée à des fibres végétales ou animales."
+          },
+          {
+            "id": 26,
+            "question": "La bouverie est un lieu rassemblant quels animaux imposants ?",
+            "propositions": [
+              "Les moutons",
+              "Les boeufs",
+              "Les oies",
+              "Les chèvres"
+            ],
+            "réponse": "Les boeufs",
+            "anecdote": "Un boeuf est un bovin domestique mâle ayant subi une castration dans le cadre de son élevage."
+          },
+          {
+            "id": 27,
+            "question": "Quel circuit est dévolu aux courses de lévriers, dont le coursing fait partie ?",
+            "propositions": [
+              "Un cynodrome",
+              "Un vivarium",
+              "Un hippodrome",
+              "Une arène"
+            ],
+            "réponse": "Un cynodrome",
+            "anecdote": "L'open coursing est la forme la plus sportive et ces courses sont très suivies car dotées de nombreux prix."
+          },
+          {
+            "id": 28,
+            "question": "Dans quel lieu se reproduisent poissons et batraciens, et par extension les mollusques ?",
+            "propositions": [
+              "Une frayère",
+              "Une garenne",
+              "Une magnanerie",
+              "Un vivarium"
+            ],
+            "réponse": "Une frayère",
+            "anecdote": "C'est donc souvent aussi l'endroit où les femelles déposent leurs oeufs afin que les mâles les recouvrent de semence."
+          },
+          {
+            "id": 29,
+            "question": "Dans quel lieu d'exploitation pratique-t-on l'élevage du ver à soie ?",
+            "propositions": [
+              "Une magnanerie",
+              "Une écloserie",
+              "Un vivarium",
+              "Une frayère"
+            ],
+            "réponse": "Une magnanerie",
+            "anecdote": "Les femmes employées dans une magnanerie sont appelées magnanarelles ou magnarelles."
+          },
+          {
+            "id": 30,
+            "question": "Dans quel lieu de l'arène tient-on les taureaux enfermés avant le combat ?",
+            "propositions": [
+              "Le nichoir",
+              "La frayère",
+              "Le toril",
+              "La niche"
+            ],
+            "réponse": "Le toril",
+            "anecdote": "Le toril comme les chiqueros diffèrent du corral qui est un ensemble de cours communiquant entre elles par des portes."
+          }
+        ]
+        }
+      }
+    },
+    {                 
+      "id": 4,                                               
+      "rédacteur": "Ponch - Edofo",
+      "cat": "Animaux",
+      "thème": "Colombophilie",         
+      "difficulté": "3 / 5",
+      "img": "https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2019/07/06/node_609904/40390496/public/2019/07/06/B9720126802Z.1_20190706101919_000%2BGAUDVKA9I.3-0.jpg?itok=1Bu9gy3h1562401168",
+      "quizz": {
+        "fr": {
+          "débutant": [
+          {
+            "id": 1,
+            "question": "La colombophilie concerne l'élevage de quels animaux ?",
+            "propositions": [
+              "Poules",
+              "Pigeons",
+              "Canards",
+              "Oiseaux"
+            ],
+            "réponse": "Pigeons",
+            "anecdote": "La colombophilie est aussi l'art de faire concourir des pigeons voyageurs via un sport non officiel et très peu connu."
+          },
+          {
+            "id": 2,
+            "question": "Comment appelle-t-on le jeune du pigeon, souvent appelé ainsi jusqu'à un an ?",
+            "propositions": [
+              "Pigeonneau",
+              "Pigeonnier",
+              "Tourtereau",
+              "Paonneau"
+            ],
+            "réponse": "Pigeonneau",
+            "anecdote": "Le pigeonneau désigne aussi par extension la viande de pigeon issue du pigeon sauvage ou de l'élevage du pigeon."
+          },
+          {
+            "id": 3,
+            "question": "Quel est le poids général moyen d'un pigeon voyageur ?",
+            "propositions": [
+              "2 kg",
+              "1 kg",
+              "400 g",
+              "100 g"
+            ],
+            "réponse": "400 g",
+            "anecdote": "Lors d'un concours difficile en raison de la météo, le pigeon voyageur peut perdre presque la moitié de son poids."
+          },
+          {
+            "id": 4,
+            "question": "À quel âge environ un pigeonneau peut-il être séparé de ses parents ?",
+            "propositions": [
+              "3 semaines",
+              "1 an",
+              "8 mois",
+              "6 mois"
+            ],
+            "réponse": "3 semaines",
+            "anecdote": "Dans le jargon colombophile, un pigeonneau peut-être sevré après environ trois ou quatre semaines."
+          },
+          {
+            "id": 5,
+            "question": "Selon une phrase restée célèbre pour les colombophiles, que font les convoyeurs ?",
+            "propositions": [
+              "Ils pleurent",
+              "Ils prient",
+              "Ils courent",
+              "Ils attendent"
+            ],
+            "réponse": "Ils attendent",
+            "anecdote": "De nos jours, les colombophiles consultent sur internet les informations mises à jour et relatives aux lâchers des pigeons."
+          },
+          {
+            "id": 6,
+            "question": "Comment appelle-t-on les grandes plumes rigides de l'aile du pigeon ?",
+            "propositions": [
+              "Plumage",
+              "Duvet",
+              "Rémiges",
+              "Rames"
+            ],
+            "réponse": "Rémiges",
+            "anecdote": "Chaque espèce possède des rémiges de formes ou de couleurs différentes, ce qui permet d'identifier les oiseaux."
+          },
+          {
+            "id": 7,
+            "question": "Dans quel lieu résident généralement les pigeons du colombophile ?",
+            "propositions": [
+              "Abri",
+              "Pigeonnier",
+              "Clapier",
+              "Grenier"
+            ],
+            "réponse": "Pigeonnier",
+            "anecdote": "Il existe une surprenante géographie des colombiers, avec des densités variables suivant les régions méditerranéennes."
+          },
+          {
+            "id": 8,
+            "question": "Comment appelle-t-on la femelle du pigeon, souvent plus petite que le mâle ?",
+            "propositions": [
+              "Pigeonne",
+              "Colombe",
+              "Tourterelle",
+              "Palombe"
+            ],
+            "réponse": "Pigeonne",
+            "anecdote": "Lorsqu'ils sont jeunes, il n'est pas inhabituel d'avoir du mal à distinguer un pigeon mâle d'un pigeon femelle."
+          },
+          {
+            "id": 9,
+            "question": "Quel est le mot picard bien connu pour désigner le colombophile ?",
+            "propositions": [
+              "Coulonneux",
+              "Péristérophile",
+              "Colombier",
+              "Colombiculteur"
+            ],
+            "réponse": "Coulonneux",
+            "anecdote": "La colombophilie est inscrite à l'Inventaire du patrimoine culturel immatériel français depuis 2012."
+          },
+          {
+            "id": 10,
+            "question": "Quelle maladie oblige souvent le colombophile à confiner ses pigeons ?",
+            "propositions": [
+              "Grippe aviaire",
+              "Méningite",
+              "Bronchite",
+              "Coronavirus"
+            ],
+            "réponse": "Grippe aviaire",
+            "anecdote": "Les virus aviaires qui sévissent chez les oiseaux peuvent parfois infecter l'homme : c'est le cas du virus H5N1."
+          }
+        ],
+        "confirmé": [
+          {
+            "id": 11,
+            "question": "Combien de doigts le pigeon possède-t-il à chaque patte ?",
+            "propositions": [
+              "Six",
+              "Deux",
+              "Quatre",
+              "Huit"
+            ],
+            "réponse": "Quatre",
+            "anecdote": "La patte du pigeon, présent dans tous les continents, pose sur trois doigts à l'avant et sur un doigt à l'arrière."
+          },
+          {
+            "id": 12,
+            "question": "Qui aurait utilisé le premier un pigeon comme pigeon voyageur ?",
+            "propositions": [
+              "Christophe Colomb",
+              "Eisenhower",
+              "Jules César",
+              "Noé"
+            ],
+            "réponse": "Noé",
+            "anecdote": "Après le déluge, Noé lâcha une colombe qui revint à l'arche avec un rameau d'olivier, devenu un symbole de paix."
+          },
+          {
+            "id": 13,
+            "question": "Quelle ville représente la plus longue distance parcourue par les pigeons hollandais et belges ?",
+            "propositions": [
+              "Paris",
+              "Lille",
+              "Casablanca",
+              "Barcelone"
+            ],
+            "réponse": "Barcelone",
+            "anecdote": "Le concours international de Barcelone est un rendez-vous incontournable pour de très nombreux colombophiles."
+          },
+          {
+            "id": 14,
+            "question": "Quel pays est considéré comme le berceau de la colombophilie mondiale ?",
+            "propositions": [
+              "Pays-Bas",
+              "Allemagne",
+              "France",
+              "Belgique"
+            ],
+            "réponse": "Belgique",
+            "anecdote": "Une statue, située à Bruxelles au square des Blindés, possède un piédestal portant la mention « Au pigeon soldat »."
+          },
+          {
+            "id": 15,
+            "question": "Quel acronyme désigne l'organisme central de la colombophilie belge ?",
+            "propositions": [
+              "R.F.C.B.",
+              "S.C.B.",
+              "F.G.T.B.",
+              "A.C.B."
+            ],
+            "réponse": "R.F.C.B.",
+            "anecdote": "La Royale Fédération Colombophile Belge a été fondée à l'occasion du congrès colombophile international du 16 octobre 1910."
+          },
+          {
+            "id": 16,
+            "question": "À quel âge un pigeon destiné à faire des concours doit-il être bagué ?",
+            "propositions": [
+              "2 mois",
+              "25-26 jours",
+              "1 an",
+              "8-9 jours"
+            ],
+            "réponse": "8-9 jours",
+            "anecdote": "Si le pigeonneau est trop grand, il n'est en effet plus possible de lui faire passer la bague à la patte, celle-ci ayant un diamètre précis."
+          },
+          {
+            "id": 17,
+            "question": "Quel appareil sert à relever l'heure d'arrivée des pigeons voyageurs lors d'un concours ?",
+            "propositions": [
+              "Pendule",
+              "Horloge",
+              "Montre",
+              "Constateur"
+            ],
+            "réponse": "Constateur",
+            "anecdote": "De nos jours, le constateur est pour ainsi dire remplacé par un système de scannage électronique via une puce RFID."
+          },
+          {
+            "id": 18,
+            "question": "Combien d'oeufs la femelle du pigeon pond-elle généralement par couvée ?",
+            "propositions": [
+              "Huit",
+              "Deux",
+              "Six",
+              "Quatre"
+            ],
+            "réponse": "Deux",
+            "anecdote": "Si, par exemple, les oeufs sont cassés, la femelle pond à nouveau généralement après une dizaine de jours."
+          },
+          {
+            "id": 19,
+            "question": "Combien de kilomètres un pigeon voyageur peut-il parcourir en une journée ?",
+            "propositions": [
+              "50 km",
+              "500 km",
+              "1 000 km",
+              "200 km"
+            ],
+            "réponse": "1 000 km",
+            "anecdote": "Un pigeon lâché le matin à 1 000 km de chez lui est capable d'atteindre son pigeonnier le même jour à la tombée de la nuit."
+          },
+          {
+            "id": 20,
+            "question": "Quelle vitesse peut atteindre un pigeon voyageur par fort vent poussant ?",
+            "propositions": [
+              "50 km/h",
+              "20 km/h",
+              "200 km/h",
+              "120 km/h"
+            ],
+            "réponse": "120 km/h",
+            "anecdote": "Un pigeon voyageur peut parcourir 1 200 kilomètres en 16 heures, le record étant de 11 590 km en 24 jours entre Saigon et Lille. "
+          }
+        ],
+        "expert": [
+          {
+            "id": 21,
+            "question": "Où se trouve la glande uropygienne du pigeon, glande spécifique des oiseaux ?",
+            "propositions": [
+              "Tête",
+              "Cou",
+              "Croupion",
+              "Ailes"
+            ],
+            "réponse": "Croupion",
+            "anecdote": "Cette glande, qui servirait principalement à l'entretien du plumage, est constamment sollicitée lors des séances de toilettage."
+          },
+          {
+            "id": 22,
+            "question": "De quel pays provenaient les frères Janssen, colombophiles mondialement connus ?",
+            "propositions": [
+              "France",
+              "Allemagne",
+              "Belgique",
+              "Pays-Bas"
+            ],
+            "réponse": "Belgique",
+            "anecdote": "Leurs pigeons de ces frères étaient très recherchés par de nombreux colombophiles partout dans le monde."
+          },
+          {
+            "id": 23,
+            "question": "À quel moment de la journée la tique du pigeon se nourrit-elle de son sang ?",
+            "propositions": [
+              "Après-midi",
+              "Journée",
+              "Nuit",
+              "Matin"
+            ],
+            "réponse": "Nuit",
+            "anecdote": "Le nom scientifique de la tique du pigeon est Argas reflexus. Parfois, cette tique se nourrit également sur l'homme."
+          },
+          {
+            "id": 24,
+            "question": "Qui est connue comme étant la sainte patronne des colombophiles ?",
+            "propositions": [
+              "Sainte Sophie",
+              "Sainte Lucie",
+              "Sainte Catherine",
+              "Sainte Marie"
+            ],
+            "réponse": "Sainte Catherine",
+            "anecdote": "En effet, Catherine d'Alexandrie s'occupait beaucoup au début du IVe siècle des pigeons dans la ferme de ses parents."
+          },
+          {
+            "id": 25,
+            "question": "Quel pigeon devenu célèbre le colonel Raynal a-t-il lâché en 1916 à Verdun ?",
+            "propositions": [
+              "Le Valeureux",
+              "Le Tenace",
+              "Le Vaillant",
+              "Le Courageux"
+            ],
+            "réponse": "Le Vaillant",
+            "anecdote": "Le 4 juin 1916, le fort de Vaux à Verdun étant encerclé par les Allemands, le colonel Raynal lâcha son dernier pigeon pour obtenir de l'aide."
+          },
+          {
+            "id": 26,
+            "question": "Quelle bande dessinée est tout particulièrement consacrée à la colombophilie ?",
+            "propositions": [
+              "Le pigeon voyageur",
+              "Colombo Phil",
+              "Le vieux bleu",
+              "La vie colombophile"
+            ],
+            "réponse": "Le vieux bleu",
+            "anecdote": "Cette bande dessinée de 1974, célèbre dans le milieu colombophile, a été dessinée par François Walthéry et scénarisée par Raoul Cauvin."
+          },
+          {
+            "id": 27,
+            "question": "Combien de rémiges comporte l'aile du pigeon voyageur ?",
+            "propositions": [
+              "Vingt cinq",
+              "Dix",
+              "Quinze",
+              "Vingt"
+            ],
+            "réponse": "Dix",
+            "anecdote": "Les rémiges, ces grandes plumes rigides de l'aile, sont parfois au nombre de 11 et sont dirigées vers l'extérieur et l'arrière de l'aile."
+          },
+          {
+            "id": 28,
+            "question": "Combien y a-t-il encore environ de colombophiles belges en activité ?",
+            "propositions": [
+              "2 000",
+              "100 000",
+              "200 000",
+              "20 000"
+            ],
+            "réponse": "20 000",
+            "anecdote": "La colombophilie perd des plumes en Belgique : le nombre de colombophiles après la Seconde Guerre mondiale était de 250 000."
+          },
+          {
+            "id": 29,
+            "question": "Comment appelle-t-on les concours de pigeons voyageurs au-delà de 800 km ?",
+            "propositions": [
+              "Vitesse",
+              "Demi-fond",
+              "Fond",
+              "Grand fond"
+            ],
+            "réponse": "Grand fond",
+            "anecdote": "Les concours sont répartis comme suit : vitesse entre 50 et 200 km, demi-fond entre 250 et 500 km et fond entre 600 et 750 km."
+          },
+          {
+            "id": 30,
+            "question": "En 2019, pour quel montant le pigeon voyageur le plus cher du monde a-t-il été vendu ?",
+            "propositions": [
+              "10 500 ",
+              "45 850 ",
+              "1 252 000 ",
+              "473 000 "
+            ],
+            "réponse": "1 252 000 ",
+            "anecdote": "Lors d'une vente aux enchères en 2019, le pigeon flamand Armando a été vendu 1 252 000 euros à un colombophile chinois."
+          }
+        ]
+        }
+      }
+    },
+    {                                 
+      "id": 5,    
+      "rédacteur": "Ponch - Edofo",
+      "cat": "Animaux",
+      "thème": "Chevaux",         
+      "difficulté": "2 / 5",
+      "img": "https://cdn.radiofrance.fr/s3/cruiser-production/2021/03/e51f683c-1f29-4136-8e62-31baa8fbf95a/1200x680_origines-equides-cheval.jpg",
+      "quizz": {
+        "fr": {
+          "débutant": [
+          {
+            "id": 1,
+            "question": "Quelle position les chevaux adoptent-ils pour un sommeil léger ?",
+            "propositions": [
+              "Sur le ventre",
+              "Sur le flanc gauche",
+              "Sur le flanc droit",
+              "Debout"
+            ],
+            "réponse": "Debout",
+            "anecdote": "Comme la plupart des grands herbivores, le cheval dort peu (3 à 5 heures par jour) en raison de sa vulnérabilité aux prédateurs."
+          },
+          {
+            "id": 2,
+            "question": "Quel cheval les Grecs ont-ils utilisé comme ruse en 1180 avant Jésus-Christ ?",
+            "propositions": [
+              "Cheval de Polybe",
+              "Cheval de Troie",
+              "Cheval de Lotos",
+              "Cheval de Thor"
+            ],
+            "réponse": "Cheval de Troie",
+            "anecdote": "L'expression « cheval de Troie » désigne aujourd'hui les dons qui s'avèrent être des pièges pour ceux qui les reçoivent."
+          },
+          {
+            "id": 3,
+            "question": "Quel est le nom du cheval de Lucky Luke, célèbre cow-boy de bande dessinée ?",
+            "propositions": [
+              "Jolly Jumper",
+              "Yakari",
+              "Bonfire",
+              "Pégase"
+            ],
+            "réponse": "Jolly Jumper",
+            "anecdote": "Par certains côtés, notamment son intelligence, son caractère et sa couleur de robe, Jolly Jumper ressemble à Milou, le chien de Tintin."
+          },
+          {
+            "id": 4,
+            "question": "Quel aliment est réputé pour être fort apprécié des chevaux ?",
+            "propositions": [
+              "Avoine",
+              "Foin",
+              "Muesli",
+              "Fourrage"
+            ],
+            "réponse": "Avoine",
+            "anecdote": "L'avoine, qui fait partie des céréales à paille, est fort utilisée dans l'alimentation animale (notamment celle des équidés)."
+          },
+          {
+            "id": 5,
+            "question": "Combien de temps après la naissance un poulain est-il en mesure de marcher ?",
+            "propositions": [
+              "Un mois",
+              "Quatre semaines",
+              "Deux semaines",
+              "Immédiatement"
+            ],
+            "réponse": "Immédiatement",
+            "anecdote": "Cette particularité est héritée de leurs ancêtres les chevaux sauvages étant effectivement la proie de nombreux prédateurs."
+          },
+          {
+            "id": 6,
+            "question": "Quel accessoire fort utile maintient la selle du cheval bien en place ?",
+            "propositions": [
+              "Rênes",
+              "Ventrière",
+              "Sangle",
+              "Sous-ventrière"
+            ],
+            "réponse": "Sangle",
+            "anecdote": "Les cavaliers qui souhaitent évoluer devront consentir à investir dans une selle spécialisée et fabriquée sur mesure."
+          },
+          {
+            "id": 7,
+            "question": "Dans quoi sont positionnés vos pieds lorsque vous montez un cheval correctement équipé ?",
+            "propositions": [
+              "Rênes",
+              "Sangles",
+              "Baudriers",
+              "Etriers"
+            ],
+            "réponse": "Etriers",
+            "anecdote": "L'étrier serait une invention chinoise, alors que pour d'autres, il viendrait des peuples nomades d'Asie centrale ou de Sibérie."
+          },
+          {
+            "id": 8,
+            "question": "Quelle célèbre marque automobile a pour emblème un cheval cabré ?",
+            "propositions": [
+              "Ferrari",
+              "Peugeot",
+              "Lamborghini",
+              "Alfa Romeo"
+            ],
+            "réponse": "Ferrari",
+            "anecdote": "Dès 1947, le logo initial, dit Scudetto, est réservé aux modèles préparés par la Scuderia Ferrari, l'écurie de compétition."
+          },
+          {
+            "id": 9,
+            "question": "À quelle fréquence faut-il idéalement curer les sabots du cheval ?",
+            "propositions": [
+              "1 fois par semaine",
+              "1 fois par mois",
+              "1 fois par jour",
+              "1 fois par an"
+            ],
+            "réponse": "1 fois par jour",
+            "anecdote": "Les animaux à sabots marchent sur la pointe de leurs doigts, à la différence des humains qui marchent sur la plante des pieds."
+          },
+          {
+            "id": 10,
+            "question": "Comment s'appelle le cheval ailé relaté dans la mythologie grecque ?",
+            "propositions": [
+              "Merengo",
+              "Argus",
+              "Pégase",
+              "Fungus"
+            ],
+            "réponse": "Pégase",
+            "anecdote": "Pégase est monté au ciel après sa naissance pour se mettre au service de Zeus qui le chargera d'apporter les éclairs sur l'Olympe."
+          }
+        ],
+        "confirmé": [
+          {
+            "id": 11,
+            "question": "Combien peut-on compter de cavaliers parmi l'ensemble des pièces d'un échiquier ?",
+            "propositions": [
+              "Trois",
+              "Deux",
+              "Quatre",
+              "Un"
+            ],
+            "réponse": "Quatre",
+            "anecdote": "On dispose l'échiquier de façon telle que, pour chacun des adversaires, la case du coin gauche de l'échiquier soit noire."
+          },
+          {
+            "id": 12,
+            "question": "Jusqu'à combien de litres d'eau un cheval adulte peut-il boire chaque jour ?",
+            "propositions": [
+              "40 litres",
+              "20 litres",
+              "30 litres",
+              "10 litres"
+            ],
+            "réponse": "40 litres",
+            "anecdote": "Le cheval possède un sens développé de l'odorat lui permettant de trouver de l'eau et de détecter une femelle en chaleur."
+          },
+          {
+            "id": 13,
+            "question": "Dans quel état se trouve un cheval qui replie ses oreilles sur son cou ?",
+            "propositions": [
+              "Heureux",
+              "Fatigué",
+              "Terrifié",
+              "Fâché"
+            ],
+            "réponse": "Fâché",
+            "anecdote": "L'étude de la gestuelle du cheval, des mouvements d'oreilles et des attitudes de sa tête, permet de déterminer son humeur."
+          },
+          {
+            "id": 14,
+            "question": "Quelle est la couleur de Stewball dans la chanson d'Hugues Aufray ?",
+            "propositions": [
+              "Alezan",
+              "Noir",
+              "Blanc",
+              "Gris"
+            ],
+            "réponse": "Blanc",
+            "anecdote": "La chanson d'Hugues Aufray célèbre la victoire d'un cheval blanc à taches alezanes sur une jument grise lors d'une course hippique."
+          },
+          {
+            "id": 15,
+            "question": "Combien le poulain nouveau-né d'un cheval ordinaire pèse-t-il environ ?",
+            "propositions": [
+              "60 kg",
+              "30 kg",
+              "45 kg",
+              "15 kg"
+            ],
+            "réponse": "45 kg",
+            "anecdote": "À l'état domestique, le poulain reste avec sa mère jusqu'au sevrage, généralement à l'âge de six mois, après quoi l'éleveur les sépare."
+          },
+          {
+            "id": 16,
+            "question": "Pourquoi les chevaux aiment-ils se rouler dans le sable sec ?",
+            "propositions": [
+              "Pour se moquer",
+              "Pour se stimuler",
+              "Pour se gratter",
+              "Pour se détendre"
+            ],
+            "réponse": "Pour se gratter",
+            "anecdote": "À l'état sauvage ou domestique, le cheval peut-être affecté par des parasites et des maladies telles que le tétanos ou la rage."
+          },
+          {
+            "id": 17,
+            "question": "Qu'observe-t-on généralement pour connaître l'âge approximatif d'un cheval ?",
+            "propositions": [
+              "Jambes",
+              "Sabots",
+              "Crinière",
+              "Dents"
+            ],
+            "réponse": "Dents",
+            "anecdote": "Les dents du cheval poussant en permanence, le mouvement masticatoire n'est souvent pas suffisant pour user la table dentaire."
+          },
+          {
+            "id": 18,
+            "question": "Combien de temps la gestation dure-t-elle en moyenne chez le cheval ?",
+            "propositions": [
+              "9 mois",
+              "5 mois",
+              "11 mois",
+              "7 mois"
+            ],
+            "réponse": "11 mois",
+            "anecdote": "La jument donne naissance au printemps à un poulain qui peut en effet marcher moins d'une heure après la naissance."
+          },
+          {
+            "id": 19,
+            "question": "Que signifie l'expression ne pas se trouver sous le sabot d'un cheval ?",
+            "propositions": [
+              "Être rare",
+              "Être rapide",
+              "Être avare",
+              "Être prudent"
+            ],
+            "réponse": "Être rare",
+            "anecdote": "À l'origine, au XVIIe siècle, l'expression contenait dans le pas d'un cheval, le pas voulant signifier le mot trace."
+          },
+          {
+            "id": 20,
+            "question": "Sur combien d'orteils posés au sol le cheval marche-t-il ?",
+            "propositions": [
+              "Un seul",
+              "Deux",
+              "Trois",
+              "Quatre"
+            ],
+            "réponse": "Un seul",
+            "anecdote": "Le cheval est un périssodactyle, ordre de mammifères ongulés, à nombre impair de doigts, en l'occurrence un seul."
+          }
+        ],
+        "expert": [
+          {
+            "id": 21,
+            "question": "Laquelle de ces quatre robes est distinctive de par ses grandes taches ?",
+            "propositions": [
+              "Pie",
+              "Bai",
+              "Pommelée",
+              "Isabelle"
+            ],
+            "réponse": "Pie",
+            "anecdote": "Le terme pie, par analogie à l'animal du même nom, est préféré à celui de bicolore pour désigner de telles robes."
+          },
+          {
+            "id": 22,
+            "question": "Environ combien de races de chevaux différentes existe-t-il encore à ce jour ?",
+            "propositions": [
+              "500",
+              "300",
+              "200",
+              "400"
+            ],
+            "réponse": "300",
+            "anecdote": "En 2008, d'après les données de la FAO, 58 millions de chevaux étaient répertoriés dans le monde sur les cinq continents de la planète."
+          },
+          {
+            "id": 23,
+            "question": "À quelle fréquence moyenne le coeur d'un cheval bat-il au repos ?",
+            "propositions": [
+              "100 ppm",
+              "80 ppm",
+              "60 ppm",
+              "40 ppm"
+            ],
+            "réponse": "40 ppm",
+            "anecdote": "Les maladies cardiaques, circulatoires, nerveuses et les vices d'écurie n'affectent que les chevaux domestiques."
+          },
+          {
+            "id": 24,
+            "question": "Quel nom porte la saillie en forme de V située sous le pied du cheval ?",
+            "propositions": [
+              "Coin",
+              "Poinçon",
+              "Fourchette",
+              "Bourrelet"
+            ],
+            "réponse": "Fourchette",
+            "anecdote": "La fourchette du cheval est une saillie en forme de V à pointe antérieure, composée d'une corne tubulaire plus molle."
+          },
+          {
+            "id": 25,
+            "question": "Combien de fois par jour un poulain peut-il téter sa mère ?",
+            "propositions": [
+              "20 à 30 fois",
+              "30 à 40 fois",
+              "10 à 20 fois",
+              "50 à 60 fois"
+            ],
+            "réponse": "50 à 60 fois",
+            "anecdote": "Les poulains tètent leur mère après la naissance pour absorber le colostrum qui renforce leurs défenses immunitaires."
+          },
+          {
+            "id": 26,
+            "question": "Laquelle de ces couleurs de robe n'existe pas chez les chevaux ?",
+            "propositions": [
+              "Pie",
+              "Alezan",
+              "Camouflage",
+              "Isabelle"
+            ],
+            "réponse": "Camouflage",
+            "anecdote": "Un certain nombre de robes du cheval consistent en un mélange de poils blancs ou noirs sur l'une des trois robes de base."
+          },
+          {
+            "id": 27,
+            "question": "Quelle race de chevaux est caractérisée par une robe alezane et une queue blanche ?",
+            "propositions": [
+              "Shetland",
+              "Fjord",
+              "Haflinger",
+              "Frison"
+            ],
+            "réponse": "Haflinger",
+            "anecdote": "De son élevage pour le travail en terrain accidenté, le Haflinger, originaire du Tyrol, a hérité d'une grande robustesse."
+          },
+          {
+            "id": 28,
+            "question": "Combien de temps la digestion dure-t-elle chez un cheval adulte en bonne santé ?",
+            "propositions": [
+              "35 à 50 h",
+              "25 à 35 h",
+              "15 à 20 h",
+              "5 à 15 h"
+            ],
+            "réponse": "35 à 50 h",
+            "anecdote": "Les chevaux disposent d'un seul estomac, capable de digérer les fibres végétales qui proviennent de l'herbe et du foin."
+          },
+          {
+            "id": 29,
+            "question": "À partir de quelle distance les chevaux peuvent-ils reconnaître les odeurs ?",
+            "propositions": [
+              "600 m",
+              "300 m",
+              "450 m",
+              "150 m"
+            ],
+            "réponse": "600 m",
+            "anecdote": "Le cheval effectue un flehmen, comportement particulier de flairage, permettant entre autres de détecter les phéromones."
+          },
+          {
+            "id": 30,
+            "question": "Que faut-il masser pour calmer un cheval apparemment nerveux ?",
+            "propositions": [
+              "Queue",
+              "Ventre",
+              "Oreilles",
+              "Dos"
+            ],
+            "réponse": "Oreilles",
+            "anecdote": "Les contacts tactiles sont peu nombreux entre chevaux, à l'exception de la mère avec son poulain."
+          }
+        ]
+        }
+      }
+    }
+  ],
+  [
+    {                                     
+      "id": 1,
+      "rédacteur": "Ponch - Edofo",
+      "cat": "Arts",
+      "thème": "Musée du Louvre",         
+      "difficulté": "4 / 5",
+      "img": "https://api-www.louvre.fr/sites/default/files/2021-01/cour-napoleon-et-pyramide_1.jpg",
+      "quizz": {
+        "fr": {
+          "débutant": [
+          {
+            "id": 1,
+            "question": "Quel est le jour de fermeture du Musée du Louvre, situé au centre de Paris ?",
+            "propositions": [
+              "Le mardi",
+              "Le lundi",
+              "Le vendredi",
+              "Le mercredi"
+            ],
+            "réponse": "Le mardi",
+            "anecdote": "Le musée du Louvre est l'un des plus grands musées du monde, et le plus grand de Paris."
+          },
+          {
+            "id": 2,
+            "question": "Quand le Louvre est-il devenu un musée, le plus grand de Paris ?",
+            "propositions": [
+              "Sous Mitterrand",
+              "Dès l'Antiquité",
+              "Au Moyen Âge",
+              "À la Révolution"
+            ],
+            "réponse": "À la Révolution",
+            "anecdote": "Le musée du Louvre a pris naissance sous Louis XV mais n'aboutira véritablement qu'avec la Révolution."
+          },
+          {
+            "id": 3,
+            "question": "Que trouve-t-on sous le musée du Louvre, dans le premier arrondissement de Paris ?",
+            "propositions": [
+              "Une bibliothèque",
+              "Une piscine",
+              "Une galerie",
+              "Un parc"
+            ],
+            "réponse": "Une galerie",
+            "anecdote": "Le Louvre est le musée le plus visité au monde et le site culturel payant le plus visité de France."
+          },
+          {
+            "id": 4,
+            "question": "Quel métier fut exercé au Louvre par Jean-François Champollion ?",
+            "propositions": [
+              "Architecte",
+              "Archéologue",
+              "Conservateur",
+              "Surveillant"
+            ],
+            "réponse": "Conservateur",
+            "anecdote": "Considéré comme le père de l'égyptologie, Champollion fut le premier à déchiffrer les hiéroglyphes."
+          },
+          {
+            "id": 5,
+            "question": "Comment était utilisé le Louvre à sa construction en 1190 ?",
+            "propositions": [
+              "En ferme",
+              "En musée",
+              "En bureau",
+              "En forteresse"
+            ],
+            "réponse": "En forteresse",
+            "anecdote": "C'est en voulant renforcer la défense de Paris que Philippe Auguste entreprît de faire construire une enceinte."
+          },
+          {
+            "id": 6,
+            "question": "Lequel de ces célèbres personnages de jeu vidéo a évolué au Louvre ?",
+            "propositions": [
+              "Gordon Freeman",
+              "Solid Snake",
+              "Sonic",
+              "Lara Croft"
+            ],
+            "réponse": "Lara Croft",
+            "anecdote": "« Tomb Raider : l'Ange des ténèbres » est le sixième épisode de la série « Tomb Raider »."
+          },
+          {
+            "id": 7,
+            "question": "En quoi est construite la Pyramide du Louvre, au milieu de la cour Napoléon du musée ?",
+            "propositions": [
+              "Carton",
+              "Verre",
+              "Bois",
+              "Pierre"
+            ],
+            "réponse": "Verre",
+            "anecdote": "La Pyramide du Louvre est située au milieu de la cour Napoléon du musée du Louvre à Paris."
+          },
+          {
+            "id": 8,
+            "question": "Combien de panneaux de verre composent la Pyramide du Louvre ?",
+            "propositions": [
+              "1 044",
+              "673",
+              "427",
+              "832"
+            ],
+            "réponse": "673",
+            "anecdote": "Commandée par François Mitterrand en 1983, la pyramide a été conçue par l'architecte sino-américain Ieoh Ming Pei."
+          },
+          {
+            "id": 9,
+            "question": "Au Louvre, quelles oeuvres sont exposées dans les Cours Marly et Puget ?",
+            "propositions": [
+              "Des momies",
+              "Des sculptures",
+              "Des tableaux",
+              "Des croquis"
+            ],
+            "réponse": "Des sculptures",
+            "anecdote": "À ses débuts, le musée n'exposait que des sculptures antiques, à l'exception de deux statues de Michel-Ange."
+          },
+          {
+            "id": 10,
+            "question": "Que ne peut-on pas faire dans le Carrousel du Louvre ?",
+            "propositions": [
+              "Nager",
+              "Acheter",
+              "Manger",
+              "Photographier"
+            ],
+            "réponse": "Nager",
+            "anecdote": "Le carrousel du Louvre, géré par la société Viparis, fait référence à la place du Carrousel toute proche."
+          }
+        ],
+        "confirmé": [
+          {
+            "id": 11,
+            "question": "Quel artiste a peint « L'Embarquement d'Ulysse » en 1646 ?",
+            "propositions": [
+              "Le Lorrain",
+              "Le Lyonnais",
+              "Le Parisien",
+              "Le Limousin"
+            ],
+            "réponse": "Le Lorrain",
+            "anecdote": "Claude Gellée, dit le Lorrain, est un peintre lorrain, figure emblématique du paysage de style classique."
+          },
+          {
+            "id": 12,
+            "question": "Quelle écriture est-il possible de déchiffrer sur la Stèle de Minnakht ?",
+            "propositions": [
+              "Du grec",
+              "Du chinois",
+              "Des hiéroglyphes",
+              "Du cunéiforme"
+            ],
+            "réponse": "Des hiéroglyphes",
+            "anecdote": "Faite de calcaire, la stèle trouvée à Akhmîm mesure 1,48 mètre par 0,89 mètre."
+          },
+          {
+            "id": 13,
+            "question": "Quel autre musée se cache dans les bâtiments du Louvre ?",
+            "propositions": [
+              "Italien",
+              "Renaissance",
+              "Sciences",
+              "Arts décoratifs"
+            ],
+            "réponse": "Arts décoratifs",
+            "anecdote": "Les Arts décoratifs sont nés de l'école royale gratuite de dessin créée en 1766 par Jean-Jacques Bachelier."
+          },
+          {
+            "id": 14,
+            "question": "Combien le musée du Louvre possède-t-il de tableaux de Léonard de Vinci ?",
+            "propositions": [
+              "16",
+              "22",
+              "34",
+              "5"
+            ],
+            "réponse": "5",
+            "anecdote": "Léonard de Vinci est souvent décrit comme l'archétype et le symbole de l'homme de la Renaissance."
+          },
+          {
+            "id": 15,
+            "question": "Qui a peint une oeuvre représentant Oedipe répondant à l'énigme du sphinx ?",
+            "propositions": [
+              "Degas",
+              "Poussin",
+              "Ingres",
+              "Van Eyck"
+            ],
+            "réponse": "Ingres",
+            "anecdote": "« Oedipe explique l'énigme du sphinx » a été légué en 1878 au musée du Louvre par la comtesse Duchâtel."
+          },
+          {
+            "id": 16,
+            "question": "Quelle exposition annuelle présentait au Louvre les artistes officiels ?",
+            "propositions": [
+              "Le Salon",
+              "La Biennale",
+              "La Crèche",
+              "La Vente"
+            ],
+            "réponse": "Le Salon",
+            "anecdote": "La manifestation, orthographiée initialement « Sallon », fut organisée par l'Académie à partir de 1737."
+          },
+          {
+            "id": 17,
+            "question": "Que peut-on voir depuis le passage Richelieu en regardant vers le Louvre ?",
+            "propositions": [
+              "Des tombes",
+              "Des dessins",
+              "Des sculptures",
+              "Des tableaux"
+            ],
+            "réponse": "Des sculptures",
+            "anecdote": "Le passage Richelieu est ouvert jusqu'à 18h30 les soirs de nocturne, 17h30 les autres jours."
+          },
+          {
+            "id": 18,
+            "question": "Combien peut-on environ monter de marches d'escaliers au Musée du Louvre ?",
+            "propositions": [
+              "20 000",
+              "5 000",
+              "15 000",
+              "10 000"
+            ],
+            "réponse": "10 000",
+            "anecdote": "Musée universaliste, le Louvre couvre une chronologie et une aire géographique étendues, depuis l'Antiquité jusqu'à 1848."
+          },
+          {
+            "id": 19,
+            "question": "Dans quelle ville se situeront les futures réserves du Louvre ?",
+            "propositions": [
+              "Pau",
+              "Lyon",
+              "Bruxelles",
+              "Lievin"
+            ],
+            "réponse": "Lievin",
+            "anecdote": "Les critères du projet sont de construire un bâtiment pouvant accueillir qualitativement 250.000 oeuvres."
+          },
+          {
+            "id": 20,
+            "question": "Combien de carats composent le Régent, célèbre diamant du Musée du Louvre ?",
+            "propositions": [
+              "140 carats",
+              "60 carats",
+              "300 carats",
+              "210 carats"
+            ],
+            "réponse": "140 carats",
+            "anecdote": "Le Régent est considéré comme l'une des pierres précieuses les plus remarquables de la Couronne de France."
+          }
+        ],
+        "expert": [
+          {
+            "id": 21,
+            "question": "Quelle est l'origine de la présence au Louvre des « Noces de Cana » de Véronèse ?",
+            "propositions": [
+              "Un cadeau",
+              "Un oubli",
+              "Un achat",
+              "Un pillage"
+            ],
+            "réponse": "Un pillage",
+            "anecdote": "Les « Noces de Cana » est actuellement exposé au musée du Louvre, faisant face à la Joconde de Léonard de Vinci."
+          },
+          {
+            "id": 22,
+            "question": "En principe, le musée du Louvre ne conserve que des oeuvres datant d'avant quelle date ?",
+            "propositions": [
+              "1701",
+              "1848",
+              "1940",
+              "1683"
+            ],
+            "réponse": "1848",
+            "anecdote": "Avec ses 460 000 oeuvres, le Louvre présente l'art occidental du Moyen Âge à 1848."
+          },
+          {
+            "id": 23,
+            "question": "Dans quel département du Louvre peut-on voir « Les Oiseaux » de Braque ?",
+            "propositions": [
+              "Peinture",
+              "Objets d'art",
+              "Étrusque",
+              "Contemporain"
+            ],
+            "réponse": "Étrusque",
+            "anecdote": "C'est dans la salle Henri II du pavillon Sully du Louvre que se trouvent les antiquités étrusques."
+          },
+          {
+            "id": 24,
+            "question": "Quelle église fait face au Musée du Louvre, avec son porche gothique flamboyant à cinq baies ?",
+            "propositions": [
+              "St Titien",
+              "Notre-Dame",
+              "St Germain",
+              "St Léonard"
+            ],
+            "réponse": "St Germain",
+            "anecdote": "La majeure partie du quartier Saint-Germain-l'Auxerrois est occupée par le palais du Louvre et les jardins des Tuileries."
+          },
+          {
+            "id": 25,
+            "question": "De quel pays viennent les grands taureaux barbus présentés au Louvre ?",
+            "propositions": [
+              "Irak",
+              "Chili",
+              "Égypte",
+              "Allemagne"
+            ],
+            "réponse": "Irak",
+            "anecdote": "Des génies protecteurs, taureaux ailés à tête humaine, étaient les gardiens de certaines portes de la ville et du palais."
+          },
+          {
+            "id": 26,
+            "question": "Comment appelle-t-on un portrait peint sur un support de format circulaire ?",
+            "propositions": [
+              "Un tondo",
+              "Un uno",
+              "Une roue",
+              "Un oval"
+            ],
+            "réponse": "Un tondo",
+            "anecdote": "Depuis l'Antiquité, le cercle, la sphère et le disque renvoient à l'idée de perfection."
+          },
+          {
+            "id": 27,
+            "question": "Quel martyr plein de flèches a été peint par Andrea Mantegna vers 1480 ?",
+            "propositions": [
+              "Jésus",
+              "Saint Louis",
+              "Judas",
+              "Saint Sébastien"
+            ],
+            "réponse": "Saint Sébastien",
+            "anecdote": "Lors de son long séjour à Mantoue, Mantegna résidait près de l'église dédiée à saint Sébastien."
+          },
+          {
+            "id": 28,
+            "question": "Quel artisan présent au Louvre a donné son nom à une école d'ameublement parisienne ?",
+            "propositions": [
+              "Boulle",
+              "Billot",
+              "Billard",
+              "Bill"
+            ],
+            "réponse": "Boulle",
+            "anecdote": "Ébéniste du roi, André-Charles Boulle fut le premier de son temps à appliquer du bronze doré à l'ébénisterie."
+          },
+          {
+            "id": 29,
+            "question": "Qui a peint un portrait de Mary Cassatt intitulé « La Visite au Louvre » ?",
+            "propositions": [
+              "Picasso",
+              "Pissaro",
+              "Monet",
+              "Degas"
+            ],
+            "réponse": "Degas",
+            "anecdote": "Après son baccalauréat en 1853, Edgar Degas passa ses journées au Louvre où il fut admis comme « copiste »."
+          },
+          {
+            "id": 30,
+            "question": "De quelle origine est « L'ivoire Barberini », chef d'oeuvre du Musée du Louvre ?",
+            "propositions": [
+              "Byzantine",
+              "Bouddhiste",
+              "Étrusque",
+              "Islamique"
+            ],
+            "réponse": "Byzantine",
+            "anecdote": "« L'ivoire Barberini » est un feuillet d'ivoire composé de quatre plaques sculptées dans le style classicisant dit théodosien tardif."
+          }
+        ]
+        }
+      }
+    },
+    {                                     
+      "id": 2,
+      "rédacteur": "Ponch - Edofo",
+      "cat": "Arts",
+      "thème": "Romantisme",         
+      "difficulté": "5 / 5",
+      "img": "https://1.bp.blogspot.com/-yUmB_Eq33Z4/V2A3Ca7KJbI/AAAAAAAAH9A/vsenpK0OIaQVKBv8XC_D7iwl2KCy9YuNACLcB/s1600/romantique.jpg",
+      "quizz": {
+        "fr": {
+          "débutant": [
+          {
+            "id": 1,
+            "question": "L'école de peinture de Düsseldorf était un mouvement romantique de quel pays ?",
+            "propositions": [
+              "Espagne",
+              "Grande-Bretagne",
+              "Russie",
+              "Allemagne"
+            ],
+            "réponse": "Allemagne",
+            "anecdote": "Le paysage et la peinture de genre de Düsseldorf, en particulier, ont été leaders et pionniers pendant de nombreuses années."
+          },
+          {
+            "id": 2,
+            "question": "De quel pays François Rude était-il un sculpteur romantique ?",
+            "propositions": [
+              "Espagne",
+              "France",
+              "Allemagne",
+              "Italie"
+            ],
+            "réponse": "France",
+            "anecdote": "Ce sculpteur français est représentatif de la transition entre le néoclassicisme et le romantisme, dont il est un des maîtres."
+          },
+          {
+            "id": 3,
+            "question": "William Morris Hunt appartenait à une des familles artistiques de quel pays ?",
+            "propositions": [
+              "France",
+              "Norvège",
+              "États-Unis",
+              "Grande-Bretagne"
+            ],
+            "réponse": "États-Unis",
+            "anecdote": "William Morris Hunt est un peintre américain et le chef de file du courant pictural en vogue à Boston au milieu du XIXe siècle."
+          },
+          {
+            "id": 4,
+            "question": "« La Bavaria » a été la première statue colossale à avoir été fondue en quelle matière ?",
+            "propositions": [
+              "Nickel",
+              "Étain",
+              "Bronze",
+              "Argent"
+            ],
+            "réponse": "Bronze",
+            "anecdote": "Dans la tête de la statue se trouve une plate-forme comportant deux bancs de six places chacun, accessibles par un escalier."
+          },
+          {
+            "id": 5,
+            "question": "L'école de Bristol regroupait des peintres influents de quel pays ?",
+            "propositions": [
+              "L'Espagne",
+              "La France",
+              "La Suisse",
+              "L'Angleterre"
+            ],
+            "réponse": "L'Angleterre",
+            "anecdote": "L'école de Bristol ressortit plus à l'association de peintres et d'amateurs qu'à un mouvement pictural autonome."
+          },
+          {
+            "id": 6,
+            "question": "Le monument dédié à Goethe et Schiler est un célèbre point de repère de quel pays ?",
+            "propositions": [
+              "Roumanie",
+              "Pologne",
+              "Hongrie",
+              "Allemagne"
+            ],
+            "réponse": "Allemagne",
+            "anecdote": "Ville aux nombreux monuments historiques, Weimar a été inscrit par l'UNESCO au patrimoine mondial en décembre 1998."
+          },
+          {
+            "id": 7,
+            "question": "Outre la sculpture et la peinture, dans quel domaine Honoré Daumier excellait-il ?",
+            "propositions": [
+              "Poésie",
+              "Architecture",
+              "Gravure",
+              "Musique"
+            ],
+            "réponse": "Gravure",
+            "anecdote": "Un timbre postal, d'une valeur de 0,45 + 0,10 franc et représentant Honré Daumier, a été émis le 23 mai 1961."
+          },
+          {
+            "id": 8,
+            "question": "Quel grand artiste a peint le célèbre tableau romantique « La Barque de Dante » ?",
+            "propositions": [
+              "Girodet",
+              "Goya",
+              "Delacroix",
+              "Turner"
+            ],
+            "réponse": "Delacroix",
+            "anecdote": "Extrait de la « Divine Comédie », la scène représente la visite aux Enfers de Dante Alighieri accompagné de Virgile."
+          },
+          {
+            "id": 9,
+            "question": "Lequel de ces termes indique l'effet de la lumière dans les paysages ?",
+            "propositions": [
+              "Néoclassicisme",
+              "Symbolisme",
+              "Luminisme",
+              "Maniérisme"
+            ],
+            "réponse": "Luminisme",
+            "anecdote": "Le luminisme est un nom générique pour désigner l'ensemble de l'art belge influencé par l'impressionnisme français."
+          },
+          {
+            "id": 10,
+            "question": "Quel peintre est célèbre pour sa troublante série des « Peintures noires » ?",
+            "propositions": [
+              "Corot",
+              "Gros",
+              "Goya",
+              "Füssli"
+            ],
+            "réponse": "Goya",
+            "anecdote": "La série de peintures à l'huile auxquelles Goya ne donna aucun titre fut cataloguée en 1828 par un ami de Goya, Antonio de Brugada."
+          }
+        ],
+        "confirmé": [
+          {
+            "id": 11,
+            "question": "Dans le mouvement romantique de quel pays l'artiste et poète Carl Spitzweg était-il influent ?",
+            "propositions": [
+              "Espagne",
+              "Royaume-Uni",
+              "Italie",
+              "Allemagne"
+            ],
+            "réponse": "Allemagne",
+            "anecdote": "Carl Spitzweg parlait plusieurs langues et voyageait beaucoup, souvent à pied, visitant Paris, Londres, Prague, l'Italie et la Belgique."
+          },
+          {
+            "id": 12,
+            "question": "Quel artiste danois a peint « Un groupe d'artistes danois à Rome » ?",
+            "propositions": [
+              "Bierstadt",
+              "Delacroix",
+              "Malmström",
+              "Hansen"
+            ],
+            "réponse": "Hansen",
+            "anecdote": "Achevée en 1837, la peinture à l'huile de Hansen est aujourd'hui exposée au Statens Museum for Kunst de Copenhague."
+          },
+          {
+            "id": 13,
+            "question": "Quel est le thème des sculptures de Frederic Remington, mêlant romantisme et réalisme ?",
+            "propositions": [
+              "Animaux",
+              "Royauté anglaise",
+              "Ouest américain",
+              "Mythologie"
+            ],
+            "réponse": "Ouest américain",
+            "anecdote": "Alors qu'il est devenu célèbre pour ses descriptions de la vie dans l'ouest américain, Remington n'a visité la région que brièvement."
+          },
+          {
+            "id": 14,
+            "question": "Quelle scène le tableau de Turner « Pluie, Vapeur et Vitesse » représente-t-il ?",
+            "propositions": [
+              "Une usine",
+              "Un étang",
+              "Un sauna",
+              "Une voie ferrée"
+            ],
+            "réponse": "Une voie ferrée",
+            "anecdote": "La toile, achevée en 1844, est exposée à la National Gallery de Londres, à la suite d'une acquisition de l'héritage Turner en 1856."
+          },
+          {
+            "id": 15,
+            "question": "Que cherche à apporter à la peinture le mouvement romantique des Nazaréens ?",
+            "propositions": [
+              "Nature",
+              "Spiritualité",
+              "Laïcité",
+              "Musique"
+            ],
+            "réponse": "Spiritualité",
+            "anecdote": "Le mouvement artistique des nazaréens a débuté grâce à des élèves de l'académie des Beaux-Arts de Vienne."
+          },
+          {
+            "id": 16,
+            "question": "Quel peintre français est célèbre pour ses lithographies satiriques de la bourgeoisie ?",
+            "propositions": [
+              "Daumier",
+              "Géricault",
+              "Fuseli",
+              "Delacroix"
+            ],
+            "réponse": "Daumier",
+            "anecdote": "La valeur de son oeuvre peinte, quelque cinq cents tableaux, a elle aussi été reconnue, bien qu'à titre posthume seulement."
+          },
+          {
+            "id": 17,
+            "question": "En peignant quels sujets Paul Delaroche a-t-il bâti la majorité de sa fortune ?",
+            "propositions": [
+              "Les chiens",
+              "Les enfants",
+              "La royauté anglaise",
+              "L'Ouest américain"
+            ],
+            "réponse": "La royauté anglaise",
+            "anecdote": "Delaroche a exécuté un grand nombre de portraits, parmi lesquels ceux de Guizot, Lamartine, Salvandy, Rémusat et Thiers."
+          },
+          {
+            "id": 18,
+            "question": "Sir Charles Barry est célèbre pour son rôle dans la reconstruction de quel palais ?",
+            "propositions": [
+              "Tintern",
+              "Saint-Pierre",
+              "Hadrien",
+              "Westminster"
+            ],
+            "réponse": "Westminster",
+            "anecdote": "Sa première commande importante lui vint en 1824, lorsqu'il remporta le concours visant la nouvelle Royal Manchester Institution."
+          },
+          {
+            "id": 19,
+            "question": "Le célèbre « Portrait du duc de Wellington » est représentatif de l'oeuvre de quel peintre ?",
+            "propositions": [
+              "Hayez",
+              "Goya",
+              "Danby",
+              "Lawrence"
+            ],
+            "réponse": "Goya",
+            "anecdote": "Son chef-d'oeuvre est la série de peintures à l'huile sur mur sec qui décorent sa maison de campagne, les « Peintures noires »."
+          },
+          {
+            "id": 20,
+            "question": "Quel artiste a peint l'émouvant tableau « El tres de mayo de 1808 en Madrid » ?",
+            "propositions": [
+              "Blake",
+              "Goya",
+              "Girodet",
+              "Mulready"
+            ],
+            "réponse": "Goya",
+            "anecdote": "L'émotion que dégage la toile en fait l'une des représentations les plus connues de la dénonciation des horreurs liées à la guerre."
+          }
+        ],
+        "expert": [
+          {
+            "id": 21,
+            "question": "À quelle River School l'artiste Asher Brown Durand était-il associé ?",
+            "propositions": [
+              "Hudson",
+              "Norwich",
+              "Lancaster",
+              "Bristol"
+            ],
+            "réponse": "Hudson",
+            "anecdote": "Les artistes de l'Hudson River School pensaient que la Nature était la manifestation de la puissance et de la bonté divine."
+          },
+          {
+            "id": 22,
+            "question": "Quel artiste allemand a peint le célèbre tableau « Lever de lune sur la mer » ?",
+            "propositions": [
+              "Runge",
+              "Quidor",
+              "Raeburn",
+              "Friedrich"
+            ],
+            "réponse": "Friedrich",
+            "anecdote": "Ce tableau faisait partie de la collection impériale du palais de Ropcha aux abords de Saint-Pétersbourg."
+          },
+          {
+            "id": 23,
+            "question": "Quel sculpteur exprima une influence romantique dans la Statue de la Liberté ?",
+            "propositions": [
+              "Barye",
+              "Bartholdi",
+              "Rude",
+              "Daumier"
+            ],
+            "réponse": "Bartholdi",
+            "anecdote": "En 1879, à la mort de Viollet-le-Duc, Bartholdi fit appel à l'ingénieur Gustave Eiffel pour la structure interne de la statue."
+          },
+          {
+            "id": 24,
+            "question": "George Dawe est connu pour avoir peint plus de 300 tableaux sur quel sujet ?",
+            "propositions": [
+              "Acrobates",
+              "Lions",
+              "Généraux russes",
+              "Trains"
+            ],
+            "réponse": "Généraux russes",
+            "anecdote": "Célèbre surtout pour ses portraits de l'empereur Alexandre Ier, il réalise à Saint-Pétersbourg 329 portraits de généraux russes."
+          },
+          {
+            "id": 25,
+            "question": "Dans quel pays le premier romantisme a-t-il vu le jour à Iéna ?",
+            "propositions": [
+              "Allemagne",
+              "Royaume-Uni",
+              "France",
+              "Italie"
+            ],
+            "réponse": "Allemagne",
+            "anecdote": "Ce mouvement reprend les fondations théoriques d'un renouveau esthétique et métaphysique initié par Wieland, Herder et Goethe."
+          },
+          {
+            "id": 26,
+            "question": "Quel artiste compte parmi ses oeuvres « La Dentelière » travaillant la dentelle aux fuseaux ?",
+            "propositions": [
+              "Bierstadt",
+              "Stieler",
+              "Tropinine",
+              "Malmström"
+            ],
+            "réponse": "Tropinine",
+            "anecdote": "Vassili Tropinine, peintre romantique russe, est né serf, d'abord des comtes Munich, et garda ce statut une grande partie de sa vie."
+          },
+          {
+            "id": 27,
+            "question": "De quel mouvement ou école de peinture l'artiste Franz Pforr faisait-il partie ?",
+            "propositions": [
+              "Nazaréens",
+              "Anciens",
+              "Futuristes",
+              "Cubistes"
+            ],
+            "réponse": "Nazaréens",
+            "anecdote": "Malgré sa courte vie artistique, Franz Pforr est l'un des plus importants peintres du romantisme allemand."
+          },
+          {
+            "id": 28,
+            "question": "Quel artiste compte parmi ses oeuvres célèbres le tableau intitulé « Spolarium » ?",
+            "propositions": [
+              "George Stubbs",
+              "Henry Fuseli",
+              "Juan Luna",
+              "James Barry"
+            ],
+            "réponse": "Juan Luna",
+            "anecdote": "Le groupe de rock philippin Eraserheads a composé un single intitulé « Spoliarium » dans leur album « Sticker Happy »."
+          },
+          {
+            "id": 29,
+            "question": "Quel artiste a peint un célèbre portrait d'Alexander von Humboldt ?",
+            "propositions": [
+              "Hansen",
+              "Weitsch",
+              "Bierstadt",
+              "Spitzweg"
+            ],
+            "réponse": "Weitsch",
+            "anecdote": "Par la qualité des relevés effectués lors de ses expéditions, von Humboldt a fondé les bases des explorations scientifiques."
+          },
+          {
+            "id": 30,
+            "question": "Quel peintre romantique réalisa la grande peinture « Le Dernier jour de Pompéi » ?",
+            "propositions": [
+              "Brioullov",
+              "Delacroix",
+              "Gros",
+              "Girodet"
+            ],
+            "réponse": "Brioullov",
+            "anecdote": "Cette peinture valut à son auteur une notoriété internationale et l'admiration d'Alexandre Pouchkine qui lui dédia un poème."
+          }
+        ]
+        }
+      }
+    },
+    {                   
+      "id": 3,                  
+      "rédacteur": "Ponch - Edofo",
+      "cat": "Arts",
+      "thème": "Sculpture",         
+      "difficulté": "5 / 5",
+      "img": "https://m.media-amazon.com/images/I/719eUuMz2+L._AC_SX466_.jpg",
+      "quizz": {
+        "fr": {
+          "débutant": [
+          {
+            "id": 1,
+            "question": "Qui a sculpté avec Tribolo et Montelupo les tombeaux des Médicis à Florence ?",
+            "propositions": [
+              "Michel-Ange",
+              "Raphaël",
+              "Donatello",
+              "Vicentino"
+            ],
+            "réponse": "Michel-Ange",
+            "anecdote": "Les tombeaux des Médicis sont deux monuments de la « Nouvelle Sacristie » élaborée à l'intérieur des Chapelles des Médicis."
+          },
+          {
+            "id": 2,
+            "question": "Où peut-on voir la « Victoire de Samothrace », sculpture grecque de l'époque hellénistique ?",
+            "propositions": [
+              "Metro Museum",
+              "Centre Pompidou",
+              "Musée du Louvre",
+              "Tate Gallery"
+            ],
+            "réponse": "Musée du Louvre",
+            "anecdote": "La « Victoire de Samothrace » est une sculpture grecque représentant la déesse Niké, personnification de la victoire."
+          },
+          {
+            "id": 3,
+            "question": "Dans quelle ville de la côte belge trouve-t-on une célèbre statue de Léopold Ier ?",
+            "propositions": [
+              "La Panne",
+              "Nieuwport",
+              "Coxyde",
+              "Blankenberge"
+            ],
+            "réponse": "La Panne",
+            "anecdote": "C'est là que le premier roi des belges mit le pied sur « ses » terres en juillet 1831."
+          },
+          {
+            "id": 4,
+            "question": "Que représente la sculpture de Marcel Duchamp « Fontaine », signée R. Mutt ?",
+            "propositions": [
+              "Cascade",
+              "Urinoir",
+              "Vase",
+              "Fontaine"
+            ],
+            "réponse": "Urinoir",
+            "anecdote": "Oeuvre controversée de l'art du XXe siècle, « Fontaine » est un ready made, c'est-à-dire un « objet tout fait »."
+          },
+          {
+            "id": 5,
+            "question": "Quelle statue monumentale de Michel-Ange trône à Florence ?",
+            "propositions": [
+              "David",
+              "Goliath",
+              "Apollon",
+              "Alexandre"
+            ],
+            "réponse": "David",
+            "anecdote": "La statue de 4.34 mètres de hauteur est tirée d'un bloc de marbre blanc de Carrare."
+          },
+          {
+            "id": 6,
+            "question": "Quel français est le créateur de la statue de la liberté de New York ?",
+            "propositions": [
+              "Anatole Guillot",
+              "Antoine Bourdelle",
+              "Auguste Bartholdi",
+              "Joseph Desbrosses"
+            ],
+            "réponse": "Auguste Bartholdi",
+            "anecdote": "Il est aussi l'auteur de la Fontaine Bartholdi, située Place des Terreaux à Lyon."
+          },
+          {
+            "id": 7,
+            "question": "Dans quel musée vous trouvez-vous si vous contemplez la Vénus de Milo ?",
+            "propositions": [
+              "Musée Rodin",
+              "Musée Magnin",
+              "Musée du Louvre",
+              "Musée Hébert"
+            ],
+            "réponse": "Musée du Louvre",
+            "anecdote": "Le buste de la statue a été mis au jour le 8 avril 1820 à Milo, une île de la mer Égée."
+          },
+          {
+            "id": 8,
+            "question": "Dans quel musée français peut-on admirer la « Victoire de Samothrace » ?",
+            "propositions": [
+              "Musée du Louvre",
+              "Musée d'Orsay",
+              "Musée Picasso",
+              "Musée Rodin"
+            ],
+            "réponse": "Musée du Louvre",
+            "anecdote": "Cette sculpture grecque représente la déesse Niké, personnification de la victoire."
+          },
+          {
+            "id": 9,
+            "question": "À quel sculpteur doit-on un désormais célèbre baiser, exposé dans un musée parisien ?",
+            "propositions": [
+              "Lenoir",
+              "Rodin",
+              "Moreau",
+              "Choppin"
+            ],
+            "réponse": "Rodin",
+            "anecdote": "« Le Baiser » de Rodin est une sculpture en marbre représentant un couple enlacé réalisée à l'échelle 1."
+          },
+          {
+            "id": 10,
+            "question": "Dans quelle ville belge trouve-t-on près du beffroi une statue de Christine de Lalaing ?",
+            "propositions": [
+              "Liège",
+              "Bruxelles",
+              "Tournai",
+              "Mons"
+            ],
+            "réponse": "Tournai",
+            "anecdote": "En l'absence de son mari, elle défendit la ville de Tournai contre le prince de Parme."
+          }
+        ],
+        "confirmé": [
+          {
+            "id": 11,
+            "question": "Dans quel type de sculpture le français Auguste Cain était-il spécialisé ?",
+            "propositions": [
+              "Monumentale",
+              "Architecturale",
+              "Animalière",
+              "Funéraire"
+            ],
+            "réponse": "Animalière",
+            "anecdote": "À partir des années 1860, Auguste Cain commencera à recevoir des commandes officielles."
+          },
+          {
+            "id": 12,
+            "question": "Quel célèbre sculpteur a participé à la construction du Parthénon ?",
+            "propositions": [
+              "Elias",
+              "Rodin",
+              "Galidias",
+              "Phidias"
+            ],
+            "réponse": "Phidias",
+            "anecdote": "Phidias sera choisi par Périclès pour superviser l'ensemble des travaux de sculpture."
+          },
+          {
+            "id": 13,
+            "question": "De combien de personnages est composée la sculpture de Rodin « Les Bourgeois de Calais » ?",
+            "propositions": [
+              "Quatre",
+              "Deux",
+              "Six",
+              "Dix"
+            ],
+            "réponse": "Six",
+            "anecdote": "Le plâtre original achevé en 1889 a été édité en onze autres exemplaires en bronze."
+          },
+          {
+            "id": 14,
+            "question": "Quel monument fait de blocs de grès roses se trouve dans la ville de Belfort ?",
+            "propositions": [
+              "Lion de Belfort",
+              "Les Trois-Sièges",
+              "Tour de la Miotte",
+              "Porte de Brisach"
+            ],
+            "réponse": "Lion de Belfort",
+            "anecdote": "La sculpture représente un lion couché et blessé prêt à se dresser qui repose sur un piédestal en rocaillage."
+          },
+          {
+            "id": 15,
+            "question": "À quel sculpteur doit-on la statue équestre de Vercingétorix située à Clermont-Ferrand ?",
+            "propositions": [
+              "Auguste Bartholdi",
+              "Antoine Bourdelle",
+              "Honoré Daumier",
+              "Jean Baffier"
+            ],
+            "réponse": "Auguste Bartholdi",
+            "anecdote": "Cette statue fait face à la statue du général Desaix, sur la place de Jaude."
+          },
+          {
+            "id": 16,
+            "question": "Quel artiste suisse du XXe siècle connaît-on surtout pour ses sculptures longilignes ?",
+            "propositions": [
+              "Robert Hainard",
+              "Martin Gramp",
+              "Alberto Giacometti",
+              "Heinz Schwartz"
+            ],
+            "réponse": "Alberto Giacometti",
+            "anecdote": "À la fin de sa vie, Giacometti sera comblé d'honneurs en remportant de nombreux prix."
+          },
+          {
+            "id": 17,
+            "question": "Quelle est la hauteur, sans le socle, du « David » de Michel-Ange ?",
+            "propositions": [
+              "3.26 mètres",
+              "4.34 mètres",
+              "5.67 mètres",
+              "6.84 mètres"
+            ],
+            "réponse": "4.34 mètres",
+            "anecdote": "Michel-Ange a représenté David, une fronde à la main, avant son combat contre Goliath."
+          },
+          {
+            "id": 18,
+            "question": "À quel sculpteur doit-on le Lion de Belfort, sculpture monumentale en ronde-bosse ?",
+            "propositions": [
+              "Félix Charpentier",
+              "Honoré Daumier",
+              "Antoine Bourdelle",
+              "Auguste Bartholdi"
+            ],
+            "réponse": "Auguste Bartholdi",
+            "anecdote": "Longue de 22 mètres, la sculpture est constituée de blocs de grès rose de Pérouse, sculptés individuellement."
+          },
+          {
+            "id": 19,
+            "question": "Quel graveur monégasque fut le sculpteur officiel de Napoléon 1er ?",
+            "propositions": [
+              "Houdon",
+              "Le Bernin",
+              "Pisano",
+              "Bosio"
+            ],
+            "réponse": "Bosio",
+            "anecdote": "François-Joseph Bosio fut recruté par Vivant Denon en 1808 pour être le portraitiste de Napoléon Ier."
+          },
+          {
+            "id": 20,
+            "question": "De quel sculpteur les oeuvres ne nous sont-elles parvenues que sous forme de copies ?",
+            "propositions": [
+              "Lysippe",
+              "Myron",
+              "Scopas",
+              "Phidias"
+            ],
+            "réponse": "Myron",
+            "anecdote": "Pline l'Ancien dira de Myron qu'il est « plus fécond » que son rival Polyclète."
+          }
+        ],
+        "expert": [
+          {
+            "id": 21,
+            "question": "Quelle était la nationalité du sculpteur et peintre Alberto Giacometti ?",
+            "propositions": [
+              "Argentine",
+              "Italienne",
+              "Portugaise",
+              "Suisse"
+            ],
+            "réponse": "Suisse",
+            "anecdote": "À la fin de sa vie, Giacometti a dénié à ses objets la moindre valeur, pourtant vendus aujourd'hui à plusieurs millions d'euros."
+          },
+          {
+            "id": 22,
+            "question": "Quel sculpteur français est considéré comme un pionnier de la sculpture animalière ?",
+            "propositions": [
+              "Serge Mangin",
+              "Raymond Martin",
+              "Pierre Jules Mène",
+              "Léon-Ernest Drivier"
+            ],
+            "réponse": "Pierre Jules Mène",
+            "anecdote": "Il a produit de nombreuses sculptures particulièrement en vogue sous le second empire."
+          },
+          {
+            "id": 23,
+            "question": "Quelles statues grecques, datant de la période archaïque, représentent des hommes nus ?",
+            "propositions": [
+              "Des éphèbes",
+              "Des callypiges",
+              "Des kouroï",
+              "Des kores"
+            ],
+            "réponse": "Des kouroï",
+            "anecdote": "Les kouroi, aux visages montrant l'influence de la Crète, sont toujours nus, portant tout au plus une ceinture et parfois des bottes."
+          },
+          {
+            "id": 24,
+            "question": "Quelle technique de sculpture est observable de tous les côtés ?",
+            "propositions": [
+              "La grande entaille",
+              "La ronde-bosse",
+              "Le relief pictural",
+              "Le haut relief"
+            ],
+            "réponse": "La ronde-bosse",
+            "anecdote": "Ce type de sculpture est le plus souvent utilisé pour des représentations figuratives."
+          },
+          {
+            "id": 25,
+            "question": "Quel artiste a décoré une fontaine à côté du centre Beaubourg, à Paris ?",
+            "propositions": [
+              "Pol Bury",
+              "David Smith",
+              "Charles Despiau",
+              "Jean Tinguely"
+            ],
+            "réponse": "Jean Tinguely",
+            "anecdote": "La fontaine Stravinski évoque l'oeuvre musicale du compositeur russe Stravinski."
+          },
+          {
+            "id": 26,
+            "question": "Dans quelle ville belge peut-on admirer une statue du soldat légendaire Silvius Brabo ?",
+            "propositions": [
+              "Namur",
+              "Bruxelles",
+              "Anvers",
+              "Bastogne"
+            ],
+            "réponse": "Anvers",
+            "anecdote": "La statue de Silvius Brabo brandissant et jetant la main d'Antigone est située sur la Grand-Place d'Anvers."
+          },
+          {
+            "id": 27,
+            "question": "Qui a réalisé « Le Passe-muraille », statue installée devant la maison où habitait Marcel Aymé ?",
+            "propositions": [
+              "Jacques Prévert",
+              "Jean Marais",
+              "Aragon",
+              "Antoine Blondin"
+            ],
+            "réponse": "Jean Marais",
+            "anecdote": "Jean Marais est enterré dans le petit cimetière de Vallauris, la ville des potiers, où il a passé les dernières années de sa vie."
+          },
+          {
+            "id": 28,
+            "question": "Quel sculpteur français a mis au point une technique de moulage du verre au XIXe siècle ?",
+            "propositions": [
+              "Pierre Curillon",
+              "Jules Coutan",
+              "Henry Cros",
+              "Louis Convers"
+            ],
+            "réponse": "Henry Cros",
+            "anecdote": "Henry Cros a suivi l'enseignement des sculpteurs François Jouffroy et Antoine Étex et du peintre Jules Valadon."
+          },
+          {
+            "id": 29,
+            "question": "Quelle sculpture de Gian Lorenzo Bernini, dit Le Bernin, se trouve à Londres ?",
+            "propositions": [
+              "Rapt de Prosperine",
+              "Fontaine du Triton",
+              "Neptune et Triton",
+              "Apollon et Daphné"
+            ],
+            "réponse": "Neptune et Triton",
+            "anecdote": "L'art de Le Bernin, typiquement baroque, est caractérisé par la recherche du mouvement et des effets d'illusion."
+          },
+          {
+            "id": 30,
+            "question": "Quel sculpteur, aimé de Louis XIV, a beaucoup travaillé pour le château de Versailles ?",
+            "propositions": [
+              "Antoine Coysevox",
+              "Thibaud Maistrier",
+              "Gervais Drouet",
+              "Thomas Boudin"
+            ],
+            "réponse": "Antoine Coysevox",
+            "anecdote": "Antoine Coysevox fut le décorateur du célèbre navire de guerre « le Soleil royal »."
+          }
+        ]
+        }
+      }
+    }
+  ]
+]
