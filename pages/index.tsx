@@ -13,10 +13,9 @@ const Home: NextPage = () => {
     const [data, setData] = useState([])
 
     useEffect(() => {
-        fetch(`${window.location.hostname}/api/quizz/getQuizz`)
+        fetch(`${window.location.origin}/api/quizz/getQuizz`)
         .then(response => response.json())
         .then((data) => {
-            console.log(data)
             setData(data)
         })
         .catch()
