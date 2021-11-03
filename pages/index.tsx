@@ -16,7 +16,9 @@ const Home: NextPage = () => {
         fetch(`https://nextjs-quizz-app.vercel.app/api/quizz/getQuizz`, {
             'method': 'get',
             'headers': {
-                'Content-Type': 'application/json'
+                'Content-Type': 'application/json',
+                'Accept': 'application/json',
+
             }
         })
         .then(response => response.json())
