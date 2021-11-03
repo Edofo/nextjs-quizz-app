@@ -13,7 +13,7 @@ const Home: NextPage = () => {
     const [data, setData] = useState([])
 
     useEffect(() => {
-        fetch(`${window.location.origin}/api/quizz/getQuizz`)
+        fetch(`https://nextjs-quizz-app.vercel.app/api/quizz/getQuizz`)
         .then(response => response.json())
         .then((data) => {
             setData(data)
