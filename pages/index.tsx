@@ -16,6 +16,7 @@ const Home: NextPage = () => {
     const [modalData, setModalData] = useState([])
     const [modalVisible, setModalVisible] = useState(false)
 
+    
     useEffect(() => {
         fetch(`http://localhost:3000/api/quizz/getQuizz`, {
             'method': 'get',
