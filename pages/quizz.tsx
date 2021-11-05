@@ -12,7 +12,7 @@ const Quizz: NextPage = () => {
     const [data2, setData2] = useState([])
 
     useEffect(() => {
-        fetch(`http://localhost:3000/api/quizz/getQuizz`, {
+        fetch(`https://nextjs-quizz-app.vercel.app/api/quizz/getQuizz`, {
             'method': 'get',
             'headers': {
                 'Content-Type': 'application/json',
