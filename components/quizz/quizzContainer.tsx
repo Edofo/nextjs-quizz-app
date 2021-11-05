@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react"
+import Link from "next/link"
 import styles from '../../styles/QuizzContainer.module.scss'
 
 const QuizzContainer = (props: any) => {
@@ -46,7 +47,9 @@ const QuizzContainer = (props: any) => {
                         <img src={props.data2[0].img} />
                         <div>
                             <p>Bravo !! Vous avez {error} erreur(s)</p>
-                            <a href="/">Retourner à l'accueil</a>
+                            <Link href="/">
+                                <a>Retourner à l'accueil</a>
+                            </Link>
                         </div>
                     </div>
                 :

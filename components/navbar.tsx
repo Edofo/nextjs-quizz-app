@@ -20,8 +20,10 @@ const Navbar = () => {
                 }
 
                 <Link href="/"> 
-                    <FontAwesomeIcon icon={faHome} />
-                    Accueil
+                    <a>
+                        <FontAwesomeIcon icon={faHome} />
+                        Accueil
+                    </a>
                 </Link>
 
                 <a> 
