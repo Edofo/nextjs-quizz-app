@@ -8,6 +8,8 @@ const QuizzContainer = (props: any) => {
     const [questions, setQuestions] : any= useState({})
     const [finish, setFinish] = useState(false)
 
+    const [modal, setModal] = useState(false)
+
     let tab = props.data
 
     useEffect(() => {
@@ -26,20 +28,34 @@ const QuizzContainer = (props: any) => {
     }
 
 
-    const checkResponse = (value : string) => {
+    const checkResponse = () => {
 
+        setModal(false)
+        generateQuestion()
+
+    }
+
+    const displayModal = (value : string) => {
+        setModal(true)
 
         if(value !== questions.réponse) {
             setError(error + 1)
         }
-
-        generateQuestion()
-
     }
 
 
     return (
         <div className={styles.quizzContainer}>
+
+            {
+                modal &&
+                    <div className={styles.modal}>
+                        <p>La bonne réponse était: <strong>{questions.réponse}</strong></p>
+                        <br />
+                        <p><strong>Anecdote:</strong> {questions.anecdote}</p>
+                        <p className={styles.button} onClick={() => checkResponse()}>Suivant</p>
+                    </div>
+            }
             
             {
                 finish === true ?
@@ -64,7 +80,7 @@ const QuizzContainer = (props: any) => {
                                 {
                                     questions.propositions.map((x : string, i : number) => {
                                         return (
-                                            <p onClick={() => checkResponse(x)} key={i}>{x}</p>
+                                            <p onClick={() => displayModal(x)} key={i}>{x}</p>
                                         )
                                     })
                                 }
