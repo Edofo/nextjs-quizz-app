@@ -1,9 +1,12 @@
 import { useEffect, useState } from "react"
 
+import styles from '../../styles/QuizzContainer.module.scss'
+
 const QuizzContainer = (props: any) => {
 
     const [error, setError] = useState(0)
-    const [questions, setQuestions] = useState({})
+    const [questions, setQuestions] : any= useState({})
+    const [finish, setFinish] = useState(false)
 
     let tab = props.data
 
@@ -12,30 +15,61 @@ const QuizzContainer = (props: any) => {
     }, [])
 
     const generateQuestion = () => {
-        let tabList = JSON.parse(tab)
 
-        if(tabList.length === 1) {
-            return setQuestions(tabList)
+        if(tab.length === 0) {
+            return setFinish(true)
         }
 
-        let randomIndex = Math.floor(Math.random() * tabList.length);
-        setQuestions(tabList[randomIndex]);
-        tabList.splice(tabList.indexOf(tabList[randomIndex]), 1)
-        tab = tabList
+        let randomIndex = Math.floor(Math.random() * tab.length);
+        setQuestions(tab[randomIndex]);
+        tab.splice(tab.indexOf(tab[randomIndex]), 1)
     }
 
-    const addError = () => {
-        setError(error + 1)
+
+    const checkResponse = (value : string) => {
+
+
+        if(value !== questions.réponse) {
+            setError(error + 1)
+        }
+
+        generateQuestion()
+
     }
+
 
     return (
-        <div>
-            <p>SALUT</p>
+        <div className={styles.quizzContainer}>
+            
+            {
+                finish === true ?
+                    <div className={styles.head2}>
+                        <img src={props.data2[0].img} />
+                        <div>
+                            <p>Bravo !! Vous avez {error} erreur(s)</p>
+                            <a href="/">Retourner à l'accueil</a>
+                        </div>
+                    </div>
+                :
+                    questions.propositions !== undefined &&
+                        <>
+                            <div className={styles.head}>
+                                <img src={props.data2[0].img} />
+                                <p>{questions.question}</p>
+                            </div>
 
-            <div>
-                <img src={props.data2[0].img} />
-                <p>{questions.question}</p>
-            </div>
+                            <div className={styles.response}>
+                                {
+                                    questions.propositions.map((x : string, i : number) => {
+                                        return (
+                                            <p onClick={() => checkResponse(x)} key={i}>{x}</p>
+                                        )
+                                    })
+                                }
+                            </div>
+                        </>
+            
+            }
 
         </div>
     )

@@ -42,14 +42,6 @@ const Quizz: NextPage = () => {
         .catch()
     }, [])
 
-    useEffect(() => {
-        const questions : any = sessionStorage.getItem('Quizz')
-        if(questions !== null) {
-            setData(questions)
-        } else {
-            window.location.replace('/')
-        }
-    }, [])
 
     return (
         <div>

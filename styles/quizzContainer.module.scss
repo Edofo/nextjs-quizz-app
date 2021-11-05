@@ -1,0 +1,87 @@
+.quizzContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 25px 5%;
+
+    .head {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+        img {
+            width: 250px;
+        }
+
+        p {
+            font: normal normal 600 28px/38px 'Montserrat';
+            width: 60%;
+        }
+    }
+
+    .head2 {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+        img {
+            width: 250px;
+        }
+
+        p {
+            font: normal normal 600 28px/38px 'Montserrat';
+        }
+        
+        a {
+            text-decoration: underline;
+        }
+    }
+
+    .response {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 50px 10%;
+        p {
+            background-color: whitesmoke;
+            padding: 15px 0;
+            margin: 10px;
+            width: 200px;
+            text-align: center;
+            border-radius: 10px;
+            box-shadow: 5px 5px 10px #28282850;
+            cursor: pointer;
+            transition-duration: 0.2s;
+
+            &:hover {
+                background-color: #4169E1;
+                color: white;
+                transform: scale(1.03);
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .quizzContainer {
+        .response {
+            padding: 0 5%;
+        }
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .quizzContainer {
+        .head, .head2 {
+            flex-direction: column;
+            p {
+                font-size: 22px;
+                width: 100%;
+                text-align: center;
+            }
+        }
+        .response {
+            padding: 0;
+        }
+    }
+}
