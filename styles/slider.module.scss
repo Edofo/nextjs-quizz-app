@@ -11,6 +11,17 @@
 
     &:hover {
         transform: scale(1.03);
+
+        div {
+            background-color: white;
+            transform: translateY(0);
+            color: #282828;
+            border-top: 1px solid #282828;
+            
+            span {
+                opacity: 1;
+            }
+        }
     }
 
     img {
@@ -19,7 +30,7 @@
         object-fit: cover;
     }
 
-    p {
+    div {
         position: absolute;
         bottom: 0;
         background-color: #28282875;
@@ -27,5 +38,27 @@
         padding: 5px 0;
         color: white;
         text-align: center;
+        transform: translateY(20px);
+        transition-duration: 0.2s;
+
+        p {
+            margin-bottom: 14px;
+        }
+
+        span {
+            opacity: 0;
+            transition-duration: 0.2s;
+            position: relative;
+
+            &:before {
+                content: "";
+                position: absolute;
+                top: -7px;
+                background-color: #4169E1;
+                border-radius: 10px;
+                width: 100%;
+                height: 2px;
+            }
+        }
     }
 }
