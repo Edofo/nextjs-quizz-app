@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 import Link from "next/link"
-import styles from '../../styles/QuizzContainer.module.scss'
+import styles from '../../styles/quizzContainer.module.scss'
 
 const QuizzContainer = (props: any) => {
 
