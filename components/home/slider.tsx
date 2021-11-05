@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import SwiperCore, { Navigation, Pagination, A11y } from 'swiper'
 import { Swiper, SwiperSlide } from 'swiper/react'
 
@@ -14,32 +14,6 @@ const SliderHome = (props : any) => {
 
     const [data] = useState(props.data)
 
-    const [numberSlide, setNumberSlide] = useState(5)
-
-    useEffect(() => {
-
-        updateSlide()
-        
-    }, [])
-
-    const updateSlide = () => {
-        const WIDTH = window.innerWidth
-
-
-        if(WIDTH >= 1950) {
-            setNumberSlide(5)
-        } else if(WIDTH >= 1200) {
-            setNumberSlide(4)
-        } else {
-            setNumberSlide(1)
-        }
-
-    }
-
-    window.addEventListener('resize', () => {
-        updateSlide()
-    })
-
     return (
         <Swiper
             spaceBetween={50}
@@ -51,7 +25,7 @@ const SliderHome = (props : any) => {
                 data.map((x : any, i : number) => {
                     return (
                         <SwiperSlide key={`slide-${i}`}>
-                            <SlideHome data={x}/>
+                            <SlideHome modal={props.modal} data={x}/>
                         </SwiperSlide>
                     )
                 })

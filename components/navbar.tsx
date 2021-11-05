@@ -17,7 +17,7 @@ const Navbar = () => {
                     // searchbar = trouver les quizz
                 }
 
-                <a> 
+                <a href="/"> 
                     <FontAwesomeIcon icon={faHome} />
                     Accueil
                 </a>

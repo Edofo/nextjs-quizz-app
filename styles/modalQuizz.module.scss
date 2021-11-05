@@ -1,0 +1,176 @@
+.modalQuizz {
+    position: fixed !important;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    box-shadow: 0px 0px 100px 1000px #28282875;
+    height: 75vh;
+    width: 40vw;
+    overflow: hidden;
+    border-radius: 15px;
+    position: relative;
+
+        .cross {
+            position: absolute;
+            right: 10px;
+            top: 20px;
+            background-color: #282828;
+            width: 25px;
+            height: 3px;
+            border-radius: 10px;
+            cursor: pointer;
+            transform: rotate(45deg);
+            transition-duration: 0.2s;
+            z-index: 10;
+    
+            &:before {
+                content: "";
+                position: absolute;
+                transform: rotate(-90deg);
+                background-color: #282828;
+                width: 100%;
+                height: 100%;
+                border-radius: 10px;
+            }
+
+            &:hover {
+                background-color: #4169E1;
+                &:before {
+                    background-color: #4169E1;
+                }
+            }
+        }
+    
+        img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+    
+        .info {
+            position: absolute;
+            bottom: 0;
+            background-color: white;
+            width: 100%;
+            border-top: 1px solid #282828;
+            display: flex;
+            flex-direction: column;
+
+            .title {
+                font: normal normal 600 30px/40px 'Montserrat';
+                text-align: center;
+                margin: 10px 0;
+                color: #4169E1;
+            }
+
+            hr {
+                background-color: #4169E1;
+                height: 3px;
+                width: 95%;
+                border: none;
+                border-radius: 10px;
+                align-self: center;
+            }
+
+            .question {
+
+                margin: 20px 15px;
+
+            }
+
+            .select {
+                margin: 20px 15px;
+
+                .difficulte {
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+
+                    p {
+                        width: fit-content;
+                        border: 2px solid #4169E1;
+                        padding: 10px 15px;
+                        margin: 0 10px;
+                        border-radius: 10px;
+                        cursor: pointer;
+                        transition-duration: 0.2s;
+                    }
+
+                    .debutant {
+                        background-color: rgb(68, 205, 50);
+                        color: white;
+                    }
+
+                    .confirme {
+                        background-color: #4169E1;
+                        color: white;
+                    }
+
+                    .expert {
+                        background-color: red;
+                        color: white;
+                    }
+
+                }
+            }
+
+            .start {
+                background-color: white;
+                border: 2px solid #4169E1;
+                width: fit-content;
+                padding: 10px 15px;
+                border-radius: 10px;
+                color: #4169E1;
+                cursor: pointer;
+                margin: 15px 0;
+                box-shadow: 5px 5px 10px #28282850;
+                transition-duration: 0.2s;
+                align-self: center;
+
+                &:hover {
+                    background-color: #4169E1;
+                    color: white;
+                }
+            }
+        }
+
+}
+
+
+@media screen and (max-width: 900px) {
+    .modalQuizz {
+        width: 60vw;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .modalQuizz {
+        width: 80vw;
+    }
+}
+
+@media screen and (max-height: 700px) {
+    .modalQuizz {
+        height: 85vh;
+    }
+}
+
+@media screen and (max-height: 550px) {
+    .modalQuizz {
+        height: 95vh;
+    }
+}
+
+@media screen and (max-height: 450px) {
+    .modalQuizz {
+        overflow: auto;
+
+        img {
+            display: none;
+        }
+        .info {
+            position: relative;
+        }
+    }
+}
