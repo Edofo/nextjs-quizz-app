@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 import { faHistory, faHome, faUser } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
@@ -17,10 +19,12 @@ const Navbar = () => {
                     // searchbar = trouver les quizz
                 }
 
-                <a href="/"> 
-                    <FontAwesomeIcon icon={faHome} />
-                    Accueil
-                </a>
+                <Link href="/"> 
+                    <a>
+                        <FontAwesomeIcon icon={faHome} />
+                        Accueil
+                    </a>
+                </Link>
 
                 <a> 
                     <FontAwesomeIcon icon={faHistory} />
@@ -30,7 +34,7 @@ const Navbar = () => {
             </div>
 
             <div>
-                <a> 
+                <a>
                     <FontAwesomeIcon icon={faUser} />
                     Se connecter
                 </a>
