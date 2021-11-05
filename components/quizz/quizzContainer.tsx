@@ -48,7 +48,7 @@ const QuizzContainer = (props: any) => {
                         <div>
                             <p>Bravo !! Vous avez {error} erreur(s)</p>
                             <Link href="/">
-                                <a>Retourner à l'accueil</a>
+                                <a>Retourner à l&apos;accueil</a>
                             </Link>
                         </div>
                     </div>
