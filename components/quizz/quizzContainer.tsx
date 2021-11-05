@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react"
-
 import styles from '../../styles/QuizzContainer.module.scss'
 
 const QuizzContainer = (props: any) => {
