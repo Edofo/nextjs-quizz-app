@@ -16,7 +16,7 @@ const SliderHome = (props : any) => {
 
     return (
         <Swiper
-            spaceBetween={50}
+            spaceBetween={30}
             slidesPerView='auto'
             navigation
             pagination={{ clickable: true }}

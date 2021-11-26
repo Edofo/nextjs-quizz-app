@@ -50,7 +50,7 @@ const Quizz: NextPage = () => {
 
             {
                 data.length >= 1 && data2.length >= 1 ?
-                    <>
+                    <div style={{height: '100vh', display: 'flex', flexDirection: 'column'}}>
                         <Navbar />
 
                         <main>
@@ -60,7 +60,7 @@ const Quizz: NextPage = () => {
                         </main>
 
                         <Footer />
-                    </>
+                    </div>
                 :
                     <p>Chargement</p>
             }

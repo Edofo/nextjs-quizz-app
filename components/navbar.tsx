@@ -1,11 +1,16 @@
 import Link from 'next/link'
 
+// import { useSession, signIn, signOut } from "next-auth/client"
+
 import { faHistory, faHome, faUser } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 import styles from '../styles/navbar.module.scss'
 
 const Navbar = () => {
+
+    // const [session, loading] = useSession()
+
     return (
         <header className={styles.header}>
 

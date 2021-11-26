@@ -1,6 +1,9 @@
 import type { NextPage } from 'next'
 import { useEffect, useState } from 'react'
 
+import Skeleton from 'react-loading-skeleton'
+import 'react-loading-skeleton/dist/skeleton.css'
+
 import Footer from '../components/footer'
 import ModalQuizz from '../components/home/modalQuizz'
 import SliderHome from '../components/home/slider'
@@ -15,6 +18,12 @@ const Home: NextPage = () => {
 
     const [modalData, setModalData] = useState([])
     const [modalVisible, setModalVisible] = useState(false)
+
+    const [load, setLoad] = useState(false)
+    
+    useEffect(() => {
+        setTimeout(() => setLoad(true), 1000)
+    }, [])
 
     useEffect(() => {
         fetch(`${window.location.origin}/api/quizz/getQuizz`, {
@@ -44,29 +53,34 @@ const Home: NextPage = () => {
 
             <Layout />
 
-            <Navbar />
+            <div style={{height: '100vh', display: 'flex', flexDirection: 'column'}}>
 
-            <main className={styles.container}>
+                <Navbar />
 
-                {
-                    modalVisible && <ModalQuizz visible={setModalVisible} data={modalData} />
-                }
+                <main className={styles.container}>
 
-            
-                {
-                    data.map((x : any, i : number) => {
-                        return (
-                            <div className={styles.sliderHome} key={i}>
-                                <p className={styles.sliderp}>{x.cat}</p>
-                                <SliderHome modal={updateModal} data={x.quizz}/>
-                            </div>
-                        )
-                    })
-                }
+                    {
+                        modalVisible && <ModalQuizz visible={setModalVisible} data={modalData} />
+                    }
 
-            </main>
+                
+                    {   
+                        data.map((x : any, i : number) => {
+                            return (
+                                <div className={styles.sliderHome} key={i}>
+                                    <p className={styles.sliderp}>{ load ? x.cat : <Skeleton />}</p>
+                                    <SliderHome modal={updateModal} data={x.quizz}/>
+                                </div>
+                            )
+                        })
+                    }
 
-            <Footer />
+                </main>
+
+                <Footer />
+
+            </div>
+
 
         </div>
     )

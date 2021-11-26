@@ -1,8 +1,11 @@
 .header {
     box-shadow: 5px 5px 10px #28282850;
-    padding: 15px 10%;
+    padding: 0 10%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    min-height: 75px;
+    height: 75px !important;
 
     a { 
         position: relative;

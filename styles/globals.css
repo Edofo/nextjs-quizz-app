@@ -39,6 +39,11 @@ a {
   background: rgb(48, 58, 126); 
 }
 
+.react-loading-skeleton {
+  height: 100% !important;
+  line-height: unset !important;
+}
+
 
 .swiper {
   padding: 20px 55px !important;
