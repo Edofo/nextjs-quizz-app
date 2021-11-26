@@ -5,12 +5,15 @@ import styles from '../../styles/quizzContainer.module.scss'
 const QuizzContainer = (props: any) => {
 
     const [error, setError] = useState(0)
+    const [good, setGood] = useState(true)
+
     const [questions, setQuestions] : any= useState({})
     const [finish, setFinish] = useState(false)
 
     const [modal, setModal] = useState(false)
 
-    let tab = props.data
+    let tab: any = [];
+    tab = tab.concat(props.data)
 
     useEffect(() => {
         generateQuestion()
@@ -36,20 +39,43 @@ const QuizzContainer = (props: any) => {
     }
 
     const displayModal = (value : string) => {
-        setModal(true)
-
+        setGood(true)
         if(value !== questions.réponse) {
             setError(error + 1)
+            setGood(false)
         }
+        setModal(true)
     }
 
 
     return (
         <div className={styles.quizzContainer}>
 
+            <div>
+                {
+                    props.data.map((x: any, i: number) => {
+                        console.log(props.data[i + 1])
+                        return (
+                            <>
+                                <p>{ i + 1 }</p>
+                                {
+                                    props.data[i + 1] === undefined ?
+                                        null
+                                    :
+                                        <hr />
+                                }
+                            </>
+                        )
+                    })
+                }
+            </div>
+
             {
                 modal &&
                     <div className={styles.modal}>
+                        {
+                            good ? <h1>Bonne réponse !</h1> : <h1>Mauvaise réponse !</h1>
+                        }
                         <p>La bonne réponse était: <strong>{questions.réponse}</strong></p>
                         <br />
                         <p><strong>Anecdote:</strong> {questions.anecdote}</p>

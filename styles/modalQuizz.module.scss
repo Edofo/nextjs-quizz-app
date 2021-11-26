@@ -15,7 +15,7 @@
             position: absolute;
             right: 10px;
             top: 20px;
-            background-color: #282828;
+            background-color: var(--main-dark);
             width: 25px;
             height: 3px;
             border-radius: 10px;
@@ -28,16 +28,16 @@
                 content: "";
                 position: absolute;
                 transform: rotate(-90deg);
-                background-color: #282828;
+                background-color: var(--main-dark);
                 width: 100%;
                 height: 100%;
                 border-radius: 10px;
             }
 
             &:hover {
-                background-color: #4169E1;
+                background-color: var(--main-blue);
                 &:before {
-                    background-color: #4169E1;
+                    background-color: var(--main-blue);
                 }
             }
         }
@@ -53,7 +53,7 @@
             bottom: 0;
             background-color: white;
             width: 100%;
-            border-top: 1px solid #282828;
+            border-top: 1px solid var(--main-dark);
             display: flex;
             flex-direction: column;
 
@@ -61,11 +61,11 @@
                 font: normal normal 600 30px/40px 'Montserrat';
                 text-align: center;
                 margin: 10px 0;
-                color: #4169E1;
+                color: var(--main-blue);
             }
 
             hr {
-                background-color: #4169E1;
+                background-color: var(--main-blue);
                 height: 3px;
                 width: 95%;
                 border: none;
@@ -89,9 +89,9 @@
 
                     p {
                         width: fit-content;
-                        border: 2px solid #4169E1;
+                        border: 2px solid var(--main-blue);
                         padding: 10px 15px;
-                        margin: 0 10px;
+                        margin: 10px;
                         border-radius: 10px;
                         cursor: pointer;
                         transition-duration: 0.2s;
@@ -103,7 +103,7 @@
                     }
 
                     .confirme {
-                        background-color: #4169E1;
+                        background-color: var(--main-blue);
                         color: white;
                     }
 
@@ -117,19 +117,19 @@
 
             .start {
                 background-color: white;
-                border: 2px solid #4169E1;
+                border: 2px solid var(--main-blue);
                 width: fit-content;
                 padding: 10px 15px;
                 border-radius: 10px;
-                color: #4169E1;
+                color: var(--main-blue);
                 cursor: pointer;
                 margin: 15px 0;
-                box-shadow: 5px 5px 10px #28282850;
+                box-shadow: 5px 5px 10px var(--main-dark)50;
                 transition-duration: 0.2s;
                 align-self: center;
 
                 &:hover {
-                    background-color: #4169E1;
+                    background-color: var(--main-blue);
                     color: white;
                 }
             }

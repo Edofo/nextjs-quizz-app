@@ -15,7 +15,7 @@ const ModalQuizz = (props : any) => {
 
     return (
         <div className={styles.modalQuizz}>
-
+                
                 <span onClick={() => props.visible(false)} className={styles.cross}></span>
                 <img src={props.data.img} alt={props.data.thème} />
 
